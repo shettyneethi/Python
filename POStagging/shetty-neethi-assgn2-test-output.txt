@@ -1,0 +1,6553 @@
+1	i	md
+2	like	vb
+3	chinese	jj
+4	food	nn
+5	uh	uh
+6	could	md
+7	you	prp
+8	make	vb
+9	me	prp
+10	some	dt
+11	proposals	nn
+12	.	.
+
+1	um	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	to	to
+6	go	vb
+7	for	in
+8	dinner	nn
+9	tonight	nn
+10	to	in
+11	chinese	jj
+12	restaurant	nn
+13	.	.
+
+1	not	vbz
+2	too	rb
+3	much	rb
+4	maybe	rb
+5	between	in
+6	five	cd
+7	and	cc
+8	eight	cd
+9	dollars	nns
+10	per	in
+11	person	nn
+12	.	.
+
+1	i	md
+2	have	vb
+3	a	dt
+4	car	nn
+5	so	rb
+6	i	prp
+7	do	vbp
+8	n't	rb
+9	care	vb
+10	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	oriental	jj
+6	food	nn
+7	to	to
+8	go	vb
+9	.	.
+
+1	uh	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	to	to
+6	have	vb
+7	sushi	jj
+8	today	nn
+9	for	in
+10	lunch	nn
+11	.	.
+
+1	i	prp
+2	do	vbp
+3	not	rb
+4	know	vb
+5	i	prp
+6	do	vbp
+7	not	rb
+8	want	vbp
+9	to	to
+10	know	vb
+11	anything	nn
+12	more	jjr
+13	about	in
+14	chinese	jj
+15	restaurants	nns
+16	i	prp
+17	want	vbp
+18	to	to
+19	know	vb
+20	about	in
+21	sushi	nn
+22	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	about	in
+5	a	dt
+6	place	nn
+7	called	hyph
+8	sushi	fw
+9	-	hyph
+10	ko	nn
+11	.	.
+
+1	uh	uh
+2	i	prp
+3	guess	vbp
+4	the	dt
+5	french	jj
+6	cuisine	nn
+7	is	vbz
+8	the	dt
+9	best	jjs
+10	all	rb
+11	over	in
+12	the	dt
+13	world	nns
+14	do	vbp
+15	you	prp
+16	have	vb
+17	something	nn
+18	appropriate	nn
+19	for	in
+20	me	prp
+21	.	.
+
+1	please	md
+2	show	vb
+3	me	prp
+4	french	jj
+5	restaurants	nns
+6	in	in
+7	berkeley	nn
+8	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	go	vb
+6	for	in
+7	dinner	nn
+8	tomorrow	nn
+9	night	nn
+10	to	in
+11	a	dt
+12	french	jj
+13	restaurant	nn
+14	.	.
+
+1	i	prp
+2	would	md
+3	spend	vb
+4	until	in
+5	twenty	cd
+6	dollars	nns
+7	per	in
+8	person	nn
+9	and	cc
+10	it	prp
+11	should	md
+12	be	vb
+13	.	.
+
+1	should	md
+2	be	vb
+3	in	in
+4	driving	vbg
+5	distance	nn
+6	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	that	dt
+6	la	jj
+7	tour	nn
+8	eiffel	nn
+9	.	.
+
+1	what	prp
+2	can	md
+3	you	prp
+4	tell	vb
+5	me	prp
+6	about	in
+7	i	prp
+8	think	vbp
+9	it	prp
+10	was	vbd
+11	called	rb
+12	uh	uh
+13	metropole	nn
+14	.	.
+
+1	give	uh
+2	me	prp
+3	the	dt
+4	list	nn
+5	of	in
+6	all	dt
+7	french	jj
+8	restaurants	nns
+9	in	in
+10	berkeley	nn
+11	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	to	to
+5	eat	vb
+6	european	jj
+7	food	nn
+8	.	.
+
+1	let	uh
+2	's	prp
+3	say	vb
+4	up	rp
+5	to	in
+6	fifteen	cd
+7	dollar	nn
+8	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	travel	vb
+5	up	rp
+6	to	in
+7	three	cd
+8	kilometers	nns
+9	.	.
+
+1	tell	uh
+2	me	prp
+3	a	dt
+4	little	jj
+5	bit	nn
+6	more	jjr
+7	about	in
+8	nadine's	nn
+9	.	.
+
+1	i	prp
+2	'm	vbp
+3	looking	vbg
+4	for	in
+5	a	dt
+6	restaurant	nn
+7	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	american	jj
+7	food	nn
+8	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	do	vb
+5	it	prp
+6	in	in
+7	the	dt
+8	evening	nn
+9	.	.
+
+1	up	wrb
+2	to	in
+3	ten	cd
+4	dollar	nn
+5	.	.
+
+1	give	uh
+2	me	prp
+3	a	dt
+4	little	jj
+5	bit	nn
+6	more	jjr
+7	information	nn
+8	about	in
+9	top	jj
+10	dog	nn
+11	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	go	vb
+5	for	in
+6	breakfast	nn
+7	in	in
+8	the	dt
+9	surroundings	jjr
+10	of	in
+11	the	dt
+12	icsi	nn
+13	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	mexican	jj
+7	.	.
+
+1	up	wrb
+2	to	in
+3	twenty	cd
+4	dollar	nn
+5	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	have	vb
+6	european	jj
+7	breakfast	nn
+8	.	.
+
+1	it	prp
+2	could	md
+3	be	vb
+4	in	in
+5	a	dt
+6	surrounding	jjr
+7	of	in
+8	five	cd
+9	kilometers	nns
+10	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	lunch	nn
+6	today	nn
+7	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	dinner	nn
+6	on	in
+7	sunday	nn
+8	evening	nn
+9	.	.
+
+1	money	wrb
+2	is	vbz
+3	no	dt
+4	object	nn
+5	.	.
+
+1	since	uh
+2	i	prp
+3	have	vb
+4	a	dt
+5	car	nn
+6	travel	vb
+7	distance	nn
+8	is	vbz
+9	not	rb
+10	important	jj
+11	.	.
+
+1	are	vbz
+2	there	ex
+3	any	dt
+4	chinese	jj
+5	restaurants	nns
+6	within	in
+7	walking	vbg
+8	distance	nn
+9	of	in
+10	icsi	nn
+11	.	.
+
+1	in	vbz
+2	the	dt
+3	early	jj
+4	evening	nn
+5	.	.
+
+1	not	prp
+2	more	rbr
+3	than	in
+4	ten	cd
+5	dollars	nns
+6	.	.
+
+1	do	vbz
+2	any	dt
+3	of	in
+4	the	dt
+5	restaurants	nns
+6	on	in
+7	this	dt
+8	list	nn
+9	serve	vbp
+10	vegetarian	jj
+11	food	nn
+12	.	.
+
+1	does	dt
+2	hong	nn
+3	-	hyph
+4	kong	vbg
+5	villa	nn
+6	serve	vbp
+7	spicy	jj
+8	szechuan	nn
+9	cuisine	nn
+10	.	.
+
+1	are	vbz
+2	any	dt
+3	of	in
+4	the	dt
+5	restaurants	nns
+6	on	in
+7	the	dt
+8	list	nn
+9	open	jj
+10	in	in
+11	the	dt
+12	morning	nn
+13	.	.
+
+1	list	uh
+2	me	prp
+3	all	pdt
+4	the	dt
+5	german	jj
+6	restaurants	nns
+7	in	in
+8	berkeley	nn
+9	.	.
+
+1	my	uh
+2	in-laws	prp
+3	will	md
+4	visit	vb
+5	me	prp
+6	next	jj
+7	weekend	nn
+8	and	cc
+9	i	prp
+10	would	md
+11	like	vb
+12	to	to
+13	take	vb
+14	them	jjr
+15	to	in
+16	a	dt
+17	indian	jj
+18	restaurant	nn
+19	uh	uh
+20	any	dt
+21	suggestions	nn
+22	.	.
+
+1	it	prp
+2	should	md
+3	preferably	rb
+4	be	vb
+5	within	in
+6	walking	vbg
+7	distance	nn
+8	.	.
+
+1	which	wrb
+2	of	in
+3	these	dt
+4	two	cd
+5	restaurants	nns
+6	serves	vbz
+7	uh	uh
+8	southern	jj
+9	indian	jj
+10	cuisine	nn
+11	.	.
+
+1	show	uh
+2	me	prp
+3	the	dt
+4	list	nn
+5	again	rb
+6	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	of	in
+5	any	dt
+6	restaurants	nns
+7	that	wdt
+8	serve	vbp
+9	pickled	to
+10	pigs	cd
+11	feet	nns
+12	.	.
+
+1	how	wrb
+2	about	in
+3	boiled	cd
+4	pigs	cd
+5	feet	nns
+6	that	wdt
+7	's	vbz
+8	a	dt
+9	german	jj
+10	delicacy	nn
+11	.	.
+
+1	can	uh
+2	you	prp
+3	at	in
+4	least	dt
+5	list	nn
+6	the	dt
+7	nationality	jjr
+8	of	in
+9	these	dt
+10	restaurants	nns
+11	.	.
+
+1	my	wrb
+2	wedding	vbz
+3	anniversary	ex
+4	is	vbz
+5	coming	vbg
+6	up	rp
+7	and	cc
+8	i	prp
+9	would	md
+10	like	vb
+11	a	dt
+12	list	nn
+13	of	in
+14	the	dt
+15	really	rb
+16	fancy	jj
+17	restaurants	nns
+18	.	.
+
+1	the	dt
+2	kind	nn
+3	of	in
+4	food	nn
+5	does	vbz
+6	n't	rb
+7	matter	vb
+8	as	rb
+9	long	jj
+10	as	in
+11	it	prp
+12	is	vbz
+13	expensive	jj
+14	.	.
+
+1	this	dt
+2	saturday	nn
+3	night	nn
+4	.	.
+
+1	distance	wrb
+2	does	vbz
+3	n't	rb
+4	matter	vb
+5	we	prp
+6	're	vbp
+7	gon	vbg
+8	na	to
+9	take	vb
+10	a	dt
+11	chauffeured	jj
+12	limousine	nn
+13	.	.
+
+1	please	dt
+2	list	nn
+3	only	rb
+4	those	cd
+5	restaurants	nns
+6	in	in
+7	the	dt
+8	highest	jj
+9	price	nn
+10	category	nn
+11	.	.
+
+1	can	uh
+2	you	prp
+3	give	vb
+4	me	prp
+5	some	dt
+6	more	jjr
+7	information	nn
+8	on	in
+9	the	dt
+10	metropole	nn
+11	restaurant	nn
+12	.	.
+
+1	can	uh
+2	you	prp
+3	give	vb
+4	me	prp
+5	some	dt
+6	more	jjr
+7	information	nn
+8	on	in
+9	the	dt
+10	metropole	nn
+11	restaurant	nn
+12	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	some	dt
+7	cuban	jj
+8	food	nn
+9	not	rb
+10	to	to
+11	spend	vb
+12	more	jjr
+13	than	in
+14	twenty	cd
+15	five	cd
+16	dollars	nns
+17	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	some	dt
+7	russian	jj
+8	food	nn
+9	and	cc
+10	not	rb
+11	spend	vb
+12	more	jjr
+13	than	in
+14	ten	cd
+15	dollars	nns
+16	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	this	dt
+7	late	jj
+8	afternoon	nn
+9	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	not	rb
+5	to	to
+6	travel	vb
+7	more	jjr
+8	than	in
+9	a	dt
+10	mile	nn
+11	away	rb
+12	from	in
+13	here	rb
+14	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	some	dt
+7	russian	jj
+8	food	nn
+9	.	.
+
+1	tell	uh
+2	me	prp
+3	something	nn
+4	about	in
+5	petrouchka	nn
+6	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	have	vb
+6	some	dt
+7	uh	uh
+8	fish	nn
+9	food	nn
+10	for	in
+11	dinner	nn
+12	and	cc
+13	um	uh
+14	i	prp
+15	'm	vbp
+16	not	rb
+17	really	rb
+18	sure	uh
+19	what	wp
+20	type	nn
+21	of	in
+22	restaurant	nn
+23	it	prp
+24	should	md
+25	be	vb
+26	whether	in
+27	or	nn
+28	.	.
+
+1	like	wrb
+2	to	in
+3	i	prp
+4	would	md
+5	like	vb
+6	to	to
+7	um	uh
+8	eat	vb
+9	tonight	nn
+10	um	uh
+11	at	in
+12	seven	cd
+13	o'clock	nn
+14	p__m	nn
+15	approximately	rb
+16	.	.
+
+1	like	wrb
+2	to	in
+3	i	prp
+4	would	md
+5	like	vb
+6	to	to
+7	um	uh
+8	eat	vb
+9	tonight	nn
+10	um	uh
+11	at	in
+12	seven	cd
+13	o'clock	nn
+14	p__m	nn
+15	approximately	rb
+16	.	.
+
+1	uh	dt
+2	something	nn
+3	in	in
+4	the	dt
+5	medium	jj
+6	range	nn
+7	let	vb
+8	's	prp
+9	say	vb
+10	about	in
+11	twenty	cd
+12	twenty	cd
+13	five	cd
+14	dollars	nns
+15	per	in
+16	person	nn
+17	.	.
+
+1	oh	uh
+2	um	uh
+3	how	wrb
+4	far	rb
+5	from	in
+6	icsi	nn
+7	um	uh
+8	somewhere	rb
+9	either	rb
+10	in	in
+11	walking	vbg
+12	distance	nn
+13	or	cc
+14	where	wrb
+15	i	prp
+16	can	md
+17	take	vb
+18	uh	uh
+19	.	.
+
+1	could	uh
+2	you	prp
+3	please	uh
+4	give	vb
+5	us	in
+6	some	dt
+7	more	jjr
+8	information	nn
+9	on	in
+10	gertie's	nns
+11	.	.
+
+1	uh	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	to	to
+6	go	vb
+7	for	in
+8	lunch	nn
+9	uh	uh
+10	to	in
+11	some	dt
+12	mexican	jj
+13	place	nn
+14	.	.
+
+1	well	uh
+2	uh	uh
+3	not	rb
+4	very	rb
+5	much	jj
+6	something	nn
+7	in	in
+8	the	dt
+9	up	rb
+10	to	in
+11	ten	cd
+12	dollar	nn
+13	range	nn
+14	.	.
+
+1	uh	vbz
+2	actually	rb
+3	i	prp
+4	have	vb
+5	a	dt
+6	car	nn
+7	available	jj
+8	now	rb
+9	so	in
+10	my	prp$
+11	friend	nn
+12	can	md
+13	take	vb
+14	me	prp
+15	to	in
+16	um	uh
+17	anywhere	rb
+18	within	in
+19	the	dt
+20	east	nn
+21	bay	nn
+22	area	nn
+23	.	.
+
+1	i	prp
+2	have	vbp
+3	n't	rb
+4	yet	rb
+5	tried	jj
+6	cactus	nn
+7	taqueria	nn
+8	so	rb
+9	could	md
+10	you	prp
+11	please	uh
+12	give	vb
+13	me	prp
+14	um	uh
+15	some	dt
+16	additional	jj
+17	information	nn
+18	on	in
+19	it	prp
+20	.	.
+
+1	uh	prp
+2	thank	vbp
+3	you	prp
+4	for	in
+5	this	dt
+6	information	nn
+7	but	cc
+8	could	md
+9	you	prp
+10	please	uh
+11	tell	vb
+12	me	prp
+13	if	in
+14	they	prp
+15	uh	uh
+16	serve	vb
+17	alcohol	nn
+18	or	cc
+19	not	rb
+20	.	.
+
+1	could	uh
+2	i	prp
+3	please	uh
+4	see	vb
+5	a	dt
+6	list	nn
+7	of	in
+8	um	uh
+9	mexican	jj
+10	restaurants	nns
+11	that	wdt
+12	i	prp
+13	asked	rbr
+14	for	in
+15	before	rb
+16	.	.
+
+1	could	uh
+2	you	prp
+3	possibly	md
+4	recommend	vb
+5	any	dt
+6	place	nn
+7	yourself	nn
+8	.	.
+
+1	thank	uh
+2	you	prp
+3	very	rb
+4	much	jj
+5	and	cc
+6	goodbye	nn
+7	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	some	dt
+7	indian	jj
+8	food	nn
+9	tonight	nn
+10	.	.
+
+1	less	wrb
+2	than	in
+3	twelve	cd
+4	dollars	nns
+5	a	dt
+6	head	nn
+7	.	.
+
+1	less	wrb
+2	than	in
+3	twelve	cd
+4	dollars	nns
+5	a	dt
+6	head	nn
+7	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	really	rb
+5	care	vb
+6	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	take	vb
+6	a	dt
+7	friend	nn
+8	for	in
+9	some	dt
+10	vietnamese	jj
+11	lunch	nn
+12	today	nn
+13	.	.
+
+1	less	wrb
+2	than	in
+3	twenty	cd
+4	four	cd
+5	dollars	nns
+6	total	jj
+7	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	take	vb
+6	my	prp$
+7	father	nn
+8	for	in
+9	an	dt
+10	expensive	jj
+11	french	jj
+12	dinner	nn
+13	tonight	nn
+14	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	care	vb
+5	.	.
+
+1	show	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	the	dt
+6	metropole	nn
+7	.	.
+
+1	show	uh
+2	me	prp
+3	all	pdt
+4	the	dt
+5	thai	jj
+6	restaurants	nns
+7	in	in
+8	berkeley	nn
+9	.	.
+
+1	show	uh
+2	me	prp
+3	more	rbr
+4	on	in
+5	siam	nn
+6	cuisine	nn
+7	.	.
+
+1	hi	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	some	dt
+6	thai	jj
+7	food	nn
+8	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	get	vb
+5	some	dt
+6	lunch	nn
+7	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	some	dt
+5	mexican	jj
+6	food	nn
+7	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	some	dt
+7	thai	jj
+8	food	nn
+9	.	.
+
+1	thai	dt
+2	food	nn
+3	.	.
+
+1	tuesday	uh
+2	.	.
+
+1	i	prp
+2	want	vbp
+3	some	dt
+4	mexican	jj
+5	food	nn
+6	.	.
+
+1	monday	uh
+2	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	go	vb
+5	on	in
+6	tuesday	nn
+7	.	.
+
+1	are	uh
+2	you	prp
+3	reading	md
+4	me	prp
+5	.	.
+
+1	on	dt
+2	tuesday	nn
+3	.	.
+
+1	tomorrow	uh
+2	.	.
+
+1	thursday	uh
+2	.	.
+
+1	or	vbz
+2	wednesday	nnp
+3	but	cc
+4	not	rb
+5	saturday	nn
+6	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	some	dt
+5	thai	jj
+6	food	nn
+7	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	on	in
+7	tuesday	nn
+8	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	on	in
+7	saturday	nn
+8	.	.
+
+1	dinner	uh
+2	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	have	vb
+5	a	dt
+6	lot	nn
+7	of	in
+8	time	nn
+9	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	on	in
+7	tuesday	nn
+8	.	.
+
+1	i	prp
+2	want	vbp
+3	some	dt
+4	cheap	jj
+5	food	nn
+6	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	lunch	nn
+7	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	dinner	nn
+7	.	.
+
+1	and	uh
+2	i	prp
+3	do	vbp
+4	n't	rb
+5	want	vbp
+6	to	to
+7	spend	vb
+8	a	dt
+9	lot	nn
+10	of	in
+11	money	nn
+12	.	.
+
+1	fifteen	cd
+2	minutes	nns
+3	and	cc
+4	i	prp
+5	need	vbp
+6	cheap	jj
+7	food	nn
+8	.	.
+
+1	sunday	uh
+2	.	.
+
+1	none	uh
+2	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	spend	vb
+7	much	jj
+8	.	.
+
+1	not	wrb
+2	fast	jj
+3	food	nn
+4	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	this	dt
+6	afternoon	nn
+7	.	.
+
+1	very	wrb
+2	little	jj
+3	.	.
+
+1	any	dt
+2	amount	nn
+3	of	in
+4	distance	nn
+5	.	.
+
+1	and	uh
+2	i	prp
+3	do	vbp
+4	n't	rb
+5	want	vbp
+6	to	to
+7	go	vb
+8	to	in
+9	sizzler	nn
+10	.	.
+
+1	i	prp
+2	want	vbp
+3	some	dt
+4	thai	jj
+5	food	nn
+6	.	.
+
+1	not	wrb
+2	much	jj
+3	.	.
+
+1	breakfast	dt
+2	lunch	nn
+3	or	cc
+4	dinner	nn
+5	is	vbz
+6	okay	uh
+7	.	.
+
+1	do	uh
+2	you	prp
+3	mean	vbp
+4	by	rb
+5	bike	jj
+6	walking	nn
+7	or	cc
+8	car	nn
+9	.	.
+
+1	i	md
+2	like	vb
+3	thai	dt
+4	mexican	jj
+5	italian	jj
+6	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	go	vb
+7	to	in
+8	any	dt
+9	burger	nn
+10	places	nns
+11	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	go	vb
+7	anywhere	rb
+8	that	wdt
+9	's	vbz
+10	further	rb
+11	than	in
+12	fifteen	cd
+13	minutes	nns
+14	away	rb
+15	on	in
+16	a	dt
+17	bike	nn
+18	.	.
+
+1	i	prp
+2	would	md
+3	invite	vb
+4	you	prp
+5	to	to
+6	go	vb
+7	with	in
+8	me	prp
+9	but	cc
+10	i	prp
+11	think	vbp
+12	you	prp
+13	'd	md
+14	be	vb
+15	horrible	cd
+16	company	nns
+17	.	.
+
+1	unless	wrb
+2	of	in
+3	course	pdt
+4	the	dt
+5	service	nn
+6	is	vbz
+7	really	rb
+8	slow	in
+9	no	dt
+10	offense	nn
+11	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	go	vb
+7	outside	jjr
+8	of	in
+9	the	dt
+10	bay	nn
+11	area	nn
+12	.	.
+
+1	and	uh
+2	i	prp
+3	do	vbp
+4	n't	rb
+5	ever	rb
+6	wan	vbp
+7	na	to
+8	spend	vb
+9	more	jjr
+10	than	in
+11	forty	cd
+12	dollars	nns
+13	on	in
+14	a	dt
+15	meal	nn
+16	.	.
+
+1	usually	uh
+2	i	prp
+3	like	vb
+4	to	to
+5	spend	vb
+6	between	in
+7	two	cd
+8	dollars	nns
+9	and	cc
+10	ten	cd
+11	dollars	nns
+12	.	.
+
+1	i	wrb
+2	does	vbz
+3	n't	rb
+4	have	vb
+5	to	to
+6	be	vb
+7	fancy	jj
+8	but	cc
+9	no	dt
+10	bugs	nn
+11	.	.
+
+1	carl's	rb
+2	-	hyph
+3	jr	nn
+4	.	.
+
+1	is	uh
+2	okay	uh
+3	though	dt
+4	good	jj
+5	zucchini	cc
+6	fries	nns
+7	.	.
+
+1	by	vbz
+2	the	dt
+3	way	nn
+4	i	prp
+5	am	vbp
+6	a	dt
+7	vegetarian	jj
+8	.	.
+
+1	enjoy	vbz
+2	all	rb
+3	of	in
+4	your	prp$
+5	dining	jj
+6	experiences	nn
+7	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	american	jj
+7	food	nn
+8	.	.
+
+1	hi	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	to	to
+6	eat	vb
+7	some	dt
+8	american	jj
+9	food	nn
+10	.	.
+
+1	saturday	uh
+2	or	cc
+3	any	dt
+4	day	nn
+5	on	in
+6	the	dt
+7	weekend	nn
+8	.	.
+
+1	american	dt
+2	food	nn
+3	american	jj
+4	californian	jj
+5	.	.
+
+1	american	dt
+2	food	nn
+3	american	jj
+4	californian	jj
+5	.	.
+
+1	i	prp
+2	am	vbp
+3	willing	jj
+4	to	to
+5	travel	vb
+6	any	dt
+7	distance	nn
+8	from	in
+9	icksee	nn
+10	.	.
+
+1	any	dt
+2	distance	nn
+3	.	.
+
+1	it	prp
+2	should	md
+3	cost	vb
+4	less	jjr
+5	than	in
+6	twenty	cd
+7	five	cd
+8	dollars	nns
+9	per	in
+10	person	nn
+11	.	.
+
+1	twenty	cd
+2	minutes	nns
+3	walking	vbg
+4	distance	nn
+5	.	.
+
+1	it	prp
+2	should	md
+3	cost	vb
+4	less	jjr
+5	than	in
+6	fifteen	cd
+7	dollar	nn
+8	per	in
+9	person	nn
+10	.	.
+
+1	twenty	cd
+2	minutes	nns
+3	walking	vbg
+4	distance	nn
+5	.	.
+
+1	hello	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	to	to
+6	eat	vb
+7	some	dt
+8	italian	jj
+9	food	nn
+10	.	.
+
+1	and	uh
+2	it	prp
+3	's	vbz
+4	gon	vbg
+5	na	to
+6	be	vb
+7	a	dt
+8	dinner	nn
+9	.	.
+
+1	italian	uh
+2	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	some	dt
+7	italian	jj
+8	food	nn
+9	.	.
+
+1	italian	uh
+2	you	prp
+3	know	vb
+4	spaghetti	dt
+5	pizza	nn
+6	.	.
+
+1	any	dt
+2	day	nn
+3	but	cc
+4	i	prp
+5	would	md
+6	like	vb
+7	also	rb
+8	to	to
+9	eat	vb
+10	some	dt
+11	other	jj
+12	thing	nn
+13	either	cc
+14	than	in
+15	pizza	nn
+16	like	in
+17	spaghetti	nns
+18	.	.
+
+1	the	dt
+2	distance	nn
+3	is	vbz
+4	not	rb
+5	important	jj
+6	.	.
+
+1	dinner	uh
+2	.	.
+
+1	i	md
+2	have	vb
+3	the	dt
+4	car	nn
+5	so	rb
+6	i	prp
+7	can	md
+8	go	vb
+9	whenever	rp
+10	.	.
+
+1	i	md
+2	have	vb
+3	the	dt
+4	car	nn
+5	so	rb
+6	i	prp
+7	can	md
+8	go	vb
+9	whenever	rp
+10	.	.
+
+1	dinner	uh
+2	.	.
+
+1	it	prp
+2	must	md
+3	be	vb
+4	on	in
+5	the	dt
+6	weekend	nn
+7	friday	nn
+8	night	nn
+9	or	cc
+10	saturday	nn
+11	night	nn
+12	.	.
+
+1	dinner	wrb
+2	in	in
+3	the	dt
+4	evening	nn
+5	after	in
+6	six	cd
+7	.	.
+
+1	if	uh
+2	i	prp
+3	go	vb
+4	lunch	nn
+5	it	prp
+6	's	vbz
+7	any	dt
+8	weekday	nn
+9	if	in
+10	i	prp
+11	go	vb
+12	dinner	nn
+13	it	prp
+14	's	vbz
+15	only	rb
+16	on	in
+17	the	dt
+18	weekend	nn
+19	.	.
+
+1	it	prp
+2	must	md
+3	be	vb
+4	good	jj
+5	food	nn
+6	i	prp
+7	'm	vbp
+8	not	rb
+9	interested	jj
+10	in	in
+11	exactly	cd
+12	what	nns
+13	.	.
+
+1	show	uh
+2	me	prp
+3	the	dt
+4	best	jjs
+5	restaurant	nn
+6	around	rb
+7	.	.
+
+1	show	uh
+2	me	prp
+3	the	dt
+4	best	jjs
+5	restaurant	nn
+6	around	rb
+7	.	.
+
+1	tonight	wrb
+2	for	in
+3	dinner	nn
+4	.	.
+
+1	any	dt
+2	price	nn
+3	i	prp
+4	am	vbp
+5	not	rb
+6	interested	jj
+7	in	in
+8	price	nn
+9	now	rb
+10	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	have	vb
+6	some	dt
+7	mexican	jj
+8	food	nn
+9	.	.
+
+1	i	prp
+2	'm	vbp
+3	interested	jj
+4	in	in
+5	having	vbg
+6	some	dt
+7	mexican	jj
+8	food	nn
+9	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	have	vb
+6	some	dt
+7	italian	jj
+8	food	nn
+9	.	.
+
+1	oh	uh
+2	i	prp
+3	do	vbp
+4	n't	rb
+5	know	vb
+6	how	wrb
+7	about	in
+8	something	nn
+9	like	in
+10	next	jj
+11	thursday	nn
+12	.	.
+
+1	i	prp
+2	'd	md
+3	prefer	vb
+4	to	to
+5	eat	vb
+6	on	in
+7	tuesday	nnp
+8	or	cc
+9	wednesday	nnp
+10	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	on	in
+7	friday	nn
+8	afternoon	nn
+9	.	.
+
+1	mexican	dt
+2	food	nn
+3	please	uh
+4	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	spend	vb
+7	more	jjr
+8	any	dt
+9	more	jjr
+10	than	in
+11	fifteen	cd
+12	dollars	nns
+13	.	.
+
+1	i	prp
+2	never	md
+3	eat	vb
+4	lunch	nn
+5	so	rb
+6	i	prp
+7	would	md
+8	like	vb
+9	to	to
+10	eat	vb
+11	dinner	nn
+12	.	.
+
+1	tuesday	uh
+2	.	.
+
+1	i	uh
+2	usually	prp
+3	do	vbp
+4	n't	rb
+5	eat	vb
+6	lunch	nn
+7	so	in
+8	breakfast	nn
+9	would	md
+10	be	vb
+11	better	jjr
+12	for	in
+13	me	prp
+14	.	.
+
+1	i	prp
+2	'd	md
+3	prefer	vb
+4	dinner	nn
+5	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	walk	vb
+7	farther	rb
+8	than	in
+9	one	cd
+10	mile	nn
+11	from	in
+12	here	rb
+13	.	.
+
+1	no	prp
+2	more	rbr
+3	than	in
+4	ten	cd
+5	dollars	nns
+6	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	have	vb
+6	both	dt
+7	indian	jj
+8	and	cc
+9	italian	jj
+10	food	nn
+11	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	my	prp$
+5	italian	jj
+6	food	nn
+7	to	to
+8	be	vb
+9	to	to
+10	cost	vb
+11	no	dt
+12	more	jjr
+13	than	in
+14	ten	cd
+15	dollars	nns
+16	.	.
+
+1	how	wrb
+2	about	in
+3	breakfast	nn
+4	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	have	vb
+6	indo	dt
+7	-	hyph
+8	european	jj
+9	food	nn
+10	.	.
+
+1	well	uh
+2	i	prp
+3	'm	vbp
+4	uh	uh
+5	on	in
+6	a	dt
+7	strict	nn
+8	budget	cc
+9	right	rb
+10	now	rb
+11	and	cc
+12	would	md
+13	n't	rb
+14	want	vbp
+15	to	to
+16	spend	vb
+17	any	dt
+18	less	jjr
+19	than	in
+20	ten	cd
+21	thousand	cd
+22	dollars	nns
+23	.	.
+
+1	is	vbz
+2	there	ex
+3	any	dt
+4	place	nn
+5	close	jj
+6	to	in
+7	the	dt
+8	water	nn
+9	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	of	in
+5	any	dt
+6	antarctican	cd
+7	restaurants	nns
+8	.	.
+
+1	how	wrb
+2	about	in
+3	senegalese	dt
+4	food	nn
+5	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	either	vb
+6	tuesday	nnp
+7	wednesday	nnp
+8	or	cc
+9	thursday	nn
+10	it	prp
+11	does	vbz
+12	n't	rb
+13	matter	vb
+14	but	cc
+15	not	rb
+16	saturday	nn
+17	and	cc
+18	not	rb
+19	friday	jj
+20	.	.
+
+1	is	vbz
+2	there	ex
+3	anything	nn
+4	on	in
+5	cedar	nn
+6	street	nn
+7	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	no	dt
+7	less	jjr
+8	than	in
+9	ten	cd
+10	feet	nns
+11	off	in
+12	the	dt
+13	ground	nn
+14	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	have	vb
+6	russian	jj
+7	food	nn
+8	.	.
+
+1	how	wrb
+2	about	in
+3	pizza	nn
+4	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	any	dt
+6	food	nn
+7	i	prp
+8	would	md
+9	like	vb
+10	to	to
+11	have	vb
+12	a	dt
+13	new	jj
+14	car	nn
+15	instead	rb
+16	.	.
+
+1	hi	prp
+2	can	md
+3	i	prp
+4	uh	uh
+5	have	vb
+6	some	dt
+7	thai	jj
+8	food	nn
+9	please	uh
+10	.	.
+
+1	hello	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	to	to
+6	make	vb
+7	a	dt
+8	reservation	nn
+9	at	in
+10	a	dt
+11	chinese	jj
+12	restaurant	nn
+13	.	.
+
+1	hi	uh
+2	i	prp
+3	'm	vbp
+4	looking	vbg
+5	for	in
+6	a	dt
+7	mexican	jj
+8	restaurant	nn
+9	.	.
+
+1	chinese	dt
+2	food	nn
+3	.	.
+
+1	hi	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	to	to
+6	eat	vb
+7	some	dt
+8	thai	jj
+9	food	nn
+10	.	.
+
+1	hi	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	a	dt
+6	reservation	nn
+7	for	in
+8	a	dt
+9	japanese	jj
+10	restaurant	nn
+11	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	go	vb
+7	very	rb
+8	far	rb
+9	.	.
+
+1	hi	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	to	to
+6	eat	vb
+7	some	dt
+8	thai	jj
+9	food	nn
+10	.	.
+
+1	i	prp
+2	can	md
+3	only	rb
+4	spend	vb
+5	ten	cd
+6	dollars	nns
+7	or	cc
+8	less	jjr
+9	.	.
+
+1	wednesday	uh
+2	.	.
+
+1	and	vbz
+2	this	dt
+3	will	md
+4	be	vb
+5	for	in
+6	lunch	nn
+7	.	.
+
+1	i	prp
+2	'm	vbp
+3	looking	vbg
+4	for	in
+5	a	dt
+6	chinese	jj
+7	restaurant	nn
+8	on	in
+9	wednesday	nnp
+10	.	.
+
+1	looking	wrb
+2	for	in
+3	a	dt
+4	mexican	jj
+5	restaurant	nn
+6	.	.
+
+1	looking	wrb
+2	for	in
+3	a	dt
+4	japanese	jj
+5	restaurant	nn
+6	.	.
+
+1	do	vbz
+2	n't	rb
+3	want	vbp
+4	to	to
+5	have	vb
+6	to	to
+7	drive	vb
+8	very	rb
+9	far	rb
+10	.	.
+
+1	i	prp
+2	'm	vbp
+3	willing	jj
+4	to	to
+5	spend	vb
+6	from	in
+7	five	cd
+8	to	to
+9	ten	cd
+10	dollars	nns
+11	.	.
+
+1	and	vbz
+2	this	dt
+3	will	md
+4	be	vb
+5	on	in
+6	sunday	nn
+7	.	.
+
+1	looking	wrb
+2	for	in
+3	a	dt
+4	restaurant	nn
+5	that	wdt
+6	serves	vbz
+7	chinese	jj
+8	food	nn
+9	.	.
+
+1	but	uh
+2	it	prp
+3	has	vbz
+4	to	to
+5	cost	vb
+6	less	jjr
+7	than	in
+8	twenty	cd
+9	dollars	nns
+10	.	.
+
+1	i	prp
+2	will	md
+3	be	vb
+4	going	vbg
+5	on	in
+6	thursday	nn
+7	.	.
+
+1	i	prp
+2	will	md
+3	be	vb
+4	going	vbg
+5	on	in
+6	thursday	nn
+7	.	.
+
+1	and	vbz
+2	this	dt
+3	will	md
+4	be	vb
+5	for	in
+6	dinner	nn
+7	.	.
+
+1	hi	uh
+2	i	prp
+3	'm	vbp
+4	looking	vbg
+5	for	in
+6	an	dt
+7	italian	jj
+8	restaurant	nn
+9	.	.
+
+1	it	wrb
+2	has	vbz
+3	to	to
+4	be	vb
+5	within	in
+6	ten	cd
+7	miles	nns
+8	from	in
+9	here	rb
+10	.	.
+
+1	um	vbz
+2	preferably	rb
+3	uh	uh
+4	inexpensive	jj
+5	restaurant	nn
+6	.	.
+
+1	for	dt
+2	saturday	nn
+3	.	.
+
+1	and	uh
+2	it	prp
+3	will	md
+4	be	vb
+5	for	in
+6	dinner	nn
+7	.	.
+
+1	hi	uh
+2	i	prp
+3	'm	vbp
+4	looking	vbg
+5	for	in
+6	a	dt
+7	french	jj
+8	restaurant	nn
+9	.	.
+
+1	it	prp
+2	will	md
+3	be	vb
+4	for	in
+5	dinner	nn
+6	next	jj
+7	week	nn
+8	.	.
+
+1	it	prp
+2	can	md
+3	be	vb
+4	very	rb
+5	expensive	jj
+6	.	.
+
+1	hi	uh
+2	i	prp
+3	'm	vbp
+4	looking	vbg
+5	for	in
+6	a	dt
+7	korean	jj
+8	restaurant	nn
+9	.	.
+
+1	it	prp
+2	will	md
+3	be	vb
+4	for	in
+5	lunch	nn
+6	.	.
+
+1	and	uh
+2	i	prp
+3	'm	vbp
+4	going	vbg
+5	to	to
+6	go	vb
+7	tomorrow	nn
+8	.	.
+
+1	hi	uh
+2	i	prp
+3	'm	vbp
+4	looking	vbg
+5	for	in
+6	a	dt
+7	place	nn
+8	to	to
+9	eat	vb
+10	on	in
+11	thursday	nn
+12	.	.
+
+1	preferably	wrb
+2	japanese	jj
+3	food	nn
+4	.	.
+
+1	i	prp
+2	can	md
+3	only	rb
+4	walk	vb
+5	ten	cd
+6	minutes	nns
+7	or	cc
+8	so	rb
+9	.	.
+
+1	hi	uh
+2	i	prp
+3	'm	vbp
+4	looking	vbg
+5	for	in
+6	spanish	jj
+7	restaurant	nn
+8	.	.
+
+1	and	uh
+2	it	prp
+3	has	vbz
+4	to	to
+5	be	vb
+6	within	in
+7	twenty	cd
+8	minutes	nns
+9	driving	vbg
+10	distance	nn
+11	.	.
+
+1	looking	wrb
+2	for	in
+3	a	dt
+4	american	jj
+5	restaurant	nn
+6	.	.
+
+1	and	uh
+2	i	prp
+3	'm	vbp
+4	willing	jj
+5	to	to
+6	drive	vb
+7	ten	cd
+8	miles	nns
+9	.	.
+
+1	and	uh
+2	uh	uh
+3	it	prp
+4	should	md
+5	cost	vb
+6	less	jjr
+7	than	in
+8	five	cd
+9	dollars	nns
+10	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	spend	vb
+5	twenty	cd
+6	dollars	nns
+7	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	have	vb
+6	lunch	nn
+7	.	.
+
+1	go	dt
+2	tonight	nn
+3	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	spend	vb
+7	more	jjr
+8	than	in
+9	ten	cd
+10	dollars	nns
+11	.	.
+
+1	have	dt
+2	dinner	nn
+3	.	.
+
+1	have	dt
+2	dinner	nn
+3	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	go	vb
+7	too	rb
+8	far	rb
+9	.	.
+
+1	what	wrb
+2	about	in
+3	a	dt
+4	thai	jj
+5	restaurant	nn
+6	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	go	vb
+7	too	rb
+8	far	rb
+9	.	.
+
+1	near	wrb
+2	from	in
+3	icsi	nn
+4	.	.
+
+1	not	vbz
+2	too	rb
+3	far	rb
+4	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	have	vb
+6	breakfast	nn
+7	.	.
+
+1	on	dt
+2	sunday	nn
+3	afternoon	nn
+4	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	travel	vb
+7	very	rb
+8	much	jj
+9	.	.
+
+1	to	md
+2	have	vb
+3	lunch	nn
+4	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	spanish	jj
+7	food	nn
+8	.	.
+
+1	like	vbp
+2	to	to
+3	have	vb
+4	lunch	nn
+5	.	.
+
+1	in	dt
+2	berkeley	nn
+3	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	have	vb
+5	dinner	nn
+6	.	.
+
+1	on	wrb
+2	monday	jj
+3	evening	nn
+4	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	italian	jj
+6	food	nn
+7	.	.
+
+1	to	md
+2	have	vb
+3	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	go	vb
+6	tomorrow	nn
+7	night	nn
+8	.	.
+
+1	no	prp
+2	more	rbr
+3	than	in
+4	twenty	cd
+5	dollars	nns
+6	.	.
+
+1	in	vbz
+2	the	dt
+3	bay	nn
+4	area	nn
+5	.	.
+
+1	no	prp
+2	more	rbr
+3	than	in
+4	twenty	cd
+5	dollars	nns
+6	.	.
+
+1	on	dt
+2	friday	nn
+3	.	.
+
+1	to	md
+2	have	vb
+3	dinner	nn
+4	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	go	vb
+5	to	to
+6	have	vb
+7	uh	uh
+8	dinner	nn
+9	.	.
+
+1	not	wrb
+2	expensive	jj
+3	.	.
+
+1	on	dt
+2	thursday	nn
+3	evening	nn
+4	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	have	vb
+6	breakfast	nn
+7	.	.
+
+1	in	vbz
+2	a	dt
+3	french	jj
+4	restaurant	nn
+5	.	.
+
+1	very	vbz
+2	far	rb
+3	.	.
+
+1	to	md
+2	have	vb
+3	lunch	nn
+4	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	go	vb
+6	to	in
+7	a	dt
+8	portuguese	jj
+9	restaurant	nn
+10	.	.
+
+1	in	vbz
+2	san__francisco	nnp
+3	.	.
+
+1	and	md
+2	pay	vb
+3	twenty	cd
+4	dollars	nns
+5	.	.
+
+1	sometime	wrb
+2	next	jj
+3	week	nn
+4	.	.
+
+1	lunch	uh
+2	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	have	vb
+6	.	.
+
+1	in	dt
+2	oakland	nn
+3	.	.
+
+1	not	wrb
+2	expensive	jj
+3	.	.
+
+1	on	vbz
+2	wednesday	nnp
+3	.	.
+
+1	for	dt
+2	dinner	nn
+3	.	.
+
+1	i	md
+2	like	vb
+3	to	to
+4	go	vb
+5	to	in
+6	an	dt
+7	american	jj
+8	restaurant	nn
+9	.	.
+
+1	in	vbz
+2	the	dt
+3	united	jj
+4	states	nn
+5	.	.
+
+1	about	uh
+2	ten	cd
+3	dollars	nns
+4	.	.
+
+1	on	dt
+2	friday	nn
+3	.	.
+
+1	to	md
+2	have	vb
+3	breakfast	nn
+4	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	go	vb
+6	to	in
+7	a	dt
+8	native	jj
+9	american	jj
+10	restaurant	nn
+11	.	.
+
+1	in	cd
+2	arizona	nns
+3	.	.
+
+1	no	prp
+2	more	rbr
+3	than	in
+4	five	cd
+5	dollars	nns
+6	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	go	vb
+6	an	dt
+7	ethiopian	jj
+8	oh	uh
+9	i	prp
+10	'm	vbp
+11	sorry	dt
+12	ethiopian	jj
+13	restaurant	nn
+14	.	.
+
+1	in	dt
+2	oakland	nn
+3	.	.
+
+1	about	uh
+2	ten	cd
+3	dollars	nns
+4	.	.
+
+1	tomorrow	uh
+2	.	.
+
+1	at	dt
+2	lunch	nn
+3	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	chinese	jj
+7	food	nn
+8	.	.
+
+1	the	dt
+2	cost	nn
+3	does	vbz
+4	n't	rb
+5	matter	vb
+6	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	have	vb
+6	cheap	jj
+7	food	nn
+8	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	have	vb
+6	lunch	nn
+7	today	nn
+8	.	.
+
+1	friday	wrb
+2	is	vbz
+3	a	dt
+4	good	jj
+5	day	nn
+6	for	in
+7	lunch	nn
+8	.	.
+
+1	give	uh
+2	me	prp
+3	more	jjr
+4	information	nn
+5	about	in
+6	taiwan	jj
+7	restaurant	nn
+8	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	go	vb
+6	there	rb
+7	for	in
+8	dinner	nn
+9	.	.
+
+1	i	prp
+2	feel	md
+3	like	vb
+4	italian	jj
+5	food	nn
+6	.	.
+
+1	i	md
+2	have	vb
+3	a	dt
+4	car	nn
+5	so	in
+6	distance	nn
+7	does	vbz
+8	n't	rb
+9	matter	vb
+10	.	.
+
+1	chinese	dt
+2	food	nn
+3	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	go	vb
+5	on	in
+6	the	dt
+7	weekend	nn
+8	.	.
+
+1	i	md
+2	like	vb
+3	mexican	jj
+4	food	nn
+5	.	.
+
+1	how	wrb
+2	about	in
+3	brunch	nn
+4	.	.
+
+1	i	md
+2	like	vb
+3	mexican	jj
+4	food	nn
+5	.	.
+
+1	give	uh
+2	me	prp
+3	information	nn
+4	about	in
+5	a	dt
+6	salad	nn
+7	bar	nn
+8	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	today	nn
+6	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	mexican	jj
+6	food	nn
+7	.	.
+
+1	the	dt
+2	price	nn
+3	should	md
+4	be	vb
+5	relatively	dt
+6	inexpensive	jj
+7	.	.
+
+1	only	uh
+2	five	cd
+3	minutes	nns
+4	from	in
+5	icksee	nn
+6	.	.
+
+1	the	dt
+2	day	nn
+3	of	in
+4	the	dt
+5	week	nn
+6	does	vbz
+7	n't	rb
+8	matter	vb
+9	.	.
+
+1	five	cd
+2	minutes	nns
+3	from	in
+4	icksee	nn
+5	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	go	vb
+5	there	rb
+6	next	jj
+7	week	nn
+8	on	in
+9	saturday	nn
+10	.	.
+
+1	about	uh
+2	five	cd
+3	dollars	nns
+4	.	.
+
+1	i	prp
+2	wish	vbp
+3	to	to
+4	have	vb
+5	breakfast	nn
+6	there	rb
+7	.	.
+
+1	tell	uh
+2	my	prp$
+3	more	jjr
+4	about	in
+5	ay	nn
+6	-	hyph
+7	caramba	nn
+8	.	.
+
+1	give	uh
+2	me	prp
+3	information	nn
+4	about	in
+5	a	dt
+6	good	jj
+7	steak	nn
+8	house	nn
+9	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	taqueria	nn
+6	cancun	nn
+7	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	of	in
+5	any	dt
+6	german	jj
+7	restaurants	nns
+8	in	in
+9	this	dt
+10	area	nn
+11	.	.
+
+1	give	uh
+2	me	prp
+3	information	nn
+4	about	in
+5	taqueria	nn
+6	cancun	nn
+7	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	thai	dt
+6	food	nn
+7	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	vegetarian	jj
+6	food	nn
+7	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	go	vb
+6	out	rp
+7	for	in
+8	dinner	nn
+9	.	.
+
+1	tell	uh
+2	me	prp
+3	about	in
+4	cambodiana	nn
+5	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	have	vb
+5	indian	jj
+6	food	nn
+7	close	jj
+8	to	in
+9	icksee	nn
+10	and	cc
+11	i	prp
+12	want	vbp
+13	to	to
+14	have	vb
+15	it	prp
+16	today	nn
+17	.	.
+
+1	i	prp
+2	want	vbp
+3	cheap	jj
+4	italian	jj
+5	food	nn
+6	for	in
+7	lunch	nn
+8	.	.
+
+1	where	prp
+2	do	vbp
+3	i	prp
+4	find	vb
+5	a	dt
+6	big	jj
+7	steak	nn
+8	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	of	in
+5	a	dt
+6	good	jj
+7	pizza	nn
+8	place	nn
+9	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	of	in
+5	a	dt
+6	good	jj
+7	pizza	nn
+8	place	nn
+9	.	.
+
+1	i	prp
+2	feel	md
+3	like	vb
+4	japanese	jj
+5	food	nn
+6	.	.
+
+1	i	prp
+2	wish	vbp
+3	to	to
+4	know	vb
+5	more	jjr
+6	about	in
+7	chez	nn
+8	-	hyph
+9	panisse	nn
+10	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	spend	vb
+6	about	in
+7	fifteen	cd
+8	dollars	nns
+9	per	in
+10	person	nn
+11	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	have	vb
+5	lunch	nn
+6	tomorrow	nn
+7	at	in
+8	a	dt
+9	very	rb
+10	expensive	jj
+11	indian	jj
+12	restaurant	nn
+13	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	some	dt
+5	inexpensive	jj
+6	greek	nn
+7	food	nn
+8	.	.
+
+1	i	prp
+2	want	vbp
+3	some	dt
+4	american	jj
+5	food	nn
+6	in	in
+7	berkeley	nn
+8	.	.
+
+1	perhaps	uh
+2	you	prp
+3	can	md
+4	point	vb
+5	me	prp
+6	to	in
+7	a	dt
+8	a	dt
+9	good	jj
+10	restaurant	nn
+11	close	jj
+12	by	in
+13	uh	uh
+14	for	in
+15	tonight	nn
+16	.	.
+
+1	i	prp
+2	'm	vbp
+3	poor	jj
+4	i	prp
+5	'm	vbp
+6	broke	jj
+7	and	cc
+8	i	prp
+9	do	vbp
+10	n't	rb
+11	have	vb
+12	a	dt
+13	car	nn
+14	so	rb
+15	i	prp
+16	need	vbp
+17	something	nn
+18	nearby	rb
+19	and	cc
+20	very	rb
+21	cheap	jj
+22	.	.
+
+1	inexpensive	vbz
+2	not	rb
+3	expensive	jj
+4	.	.
+
+1	something	uh
+2	uh	uh
+3	american	jj
+4	no	dt
+5	greek	nn
+6	wait	nn
+7	no	uh
+8	let	vb
+9	's	prp
+10	see	vb
+11	i	prp
+12	could	md
+13	really	rb
+14	go	vb
+15	for	in
+16	some	dt
+17	middle	jj
+18	eastern	jj
+19	food	nn
+20	.	.
+
+1	greek	dt
+2	food	nn
+3	cheap	jj
+4	and	cc
+5	nearby	rb
+6	.	.
+
+1	um	prp
+2	somewhere	vbp
+3	to	to
+4	take	vb
+5	uh	uh
+6	someone	jj
+7	saturday	nn
+8	dinner	nn
+9	.	.
+
+1	some	dt
+2	greek	nn
+3	food	nn
+4	.	.
+
+1	at	cd
+2	places	nns
+3	between	in
+4	say	cd
+5	twenty	cd
+6	to	to
+7	fifty	cd
+8	bucks	nns
+9	.	.
+
+1	a	wrb
+2	close	jj
+3	.	.
+
+1	now	prp
+2	better	md
+3	make	vb
+4	that	dt
+5	say	jjs
+6	ten	cd
+7	to	to
+8	fifteen	cd
+9	dollars	nns
+10	actually	rb
+11	now	rb
+12	.	.
+
+1	hopefully	vbp
+2	walking	vbg
+3	distance	nn
+4	.	.
+
+1	like	vbp
+2	to	to
+3	dine	vb
+4	this	dt
+5	evening	nn
+6	.	.
+
+1	what	prp
+2	do	vbp
+3	you	prp
+4	suggest	vb
+5	for	in
+6	dinner	nn
+7	tonight	nn
+8	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	out	rp
+7	tonight	nn
+8	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	greek	nn
+6	or	cc
+7	french	jj
+8	or	cc
+9	american	jj
+10	.	.
+
+1	do	uh
+2	you	prp
+3	have	vb
+4	some	dt
+5	sort	nn
+6	of	in
+7	southern	jj
+8	cuisine	nn
+9	.	.
+
+1	any	wrb
+2	middle	jj
+3	eastern	jj
+4	restaurants	nns
+5	.	.
+
+1	for	vbz
+2	a	dt
+3	midweek	jjs
+4	luncheon	cd
+5	meeting	nns
+6	.	.
+
+1	middle	wrb
+2	eastern	jj
+3	food	nn
+4	.	.
+
+1	no	prp
+2	more	rbr
+3	than	in
+4	twenty	cd
+5	dollars	nns
+6	per	in
+7	person	nn
+8	.	.
+
+1	money	wrb
+2	is	vbz
+3	no	dt
+4	object	nn
+5	.	.
+
+1	and	uh
+2	no	uh
+3	further	rb
+4	than	in
+5	san__francisco	nnp
+6	.	.
+
+1	lunch	wrb
+2	on	in
+3	saturday	nn
+4	.	.
+
+1	howbout	uh
+2	san__francisco	cd
+3	restaurants	nns
+4	.	.
+
+1	uh	vbz
+2	maybe	rb
+3	uh	uh
+4	some	dt
+5	ethiopian	jj
+6	food	nn
+7	.	.
+
+1	sunday	dt
+2	brunch	nn
+3	.	.
+
+1	five	cd
+2	dollars	nns
+3	or	cc
+4	less	jjr
+5	.	.
+
+1	sunday	dt
+2	dinner	nn
+3	.	.
+
+1	uh	wrb
+2	about	in
+3	ten	cd
+4	to	to
+5	fifteen	cd
+6	dollars	nns
+7	per	in
+8	person	nn
+9	.	.
+
+1	why	vbz
+2	not	rb
+3	good	jj
+4	old	jj
+5	american	nn
+6	.	.
+
+1	the	dt
+2	best	jjs
+3	burger	nn
+4	in	in
+5	town	nn
+6	please	uh
+7	.	.
+
+1	for	wrb
+2	american	jj
+3	food	nn
+4	.	.
+
+1	somewhere	wrb
+2	close	jj
+3	to	in
+4	the	dt
+5	university	nn
+6	and	cc
+7	very	rb
+8	inexpensive	jj
+9	.	.
+
+1	i	prp
+2	wan	vbp
+3	na	to
+4	eat	vb
+5	right	rb
+6	now	rb
+7	.	.
+
+1	any	wrb
+2	german	jj
+3	food	nn
+4	on	in
+5	file	nn
+6	.	.
+
+1	dinner	wrb
+2	for	in
+3	four	cd
+4	under	in
+5	one	cd
+6	hundred	cd
+7	dollars	nns
+8	.	.
+
+1	for	vbz
+2	a	dt
+3	nice	jj
+4	business	nn
+5	dinner	nn
+6	.	.
+
+1	can	uh
+2	you	prp
+3	suggest	vb
+4	a	dt
+5	restaurant	nn
+6	with	in
+7	spicy	jj
+8	food	nn
+9	.	.
+
+1	i	prp
+2	'll	md
+3	drive	vb
+4	to	to
+5	san__diego	vb
+6	if	in
+7	i	prp
+8	have	vbp
+9	to	to
+10	.	.
+
+1	say	wrb
+2	about	in
+3	fifty	cd
+4	bucks	nns
+5	a	dt
+6	pop	nn
+7	.	.
+
+1	and	vbz
+2	that	dt
+3	would	md
+4	be	vb
+5	for	in
+6	lunch	nn
+7	on	in
+8	tuesday	nn
+9	afternoon	nn
+10	.	.
+
+1	ey	uh
+2	what	wp
+3	do	vbp
+4	you	prp
+5	got	vbd
+6	in	in
+7	the	dt
+8	way	nn
+9	of	in
+10	indian	jj
+11	food	nn
+12	.	.
+
+1	either	cd
+2	concord	nns
+3	or	cc
+4	walnut__creek	nns
+5	.	.
+
+1	and	wrb
+2	of	in
+3	course	nn
+4	because	in
+5	i	prp
+6	am	vbp
+7	a	dt
+8	poor	jj
+9	starving	nn
+10	student	nn
+11	it	prp
+12	would	md
+13	have	vb
+14	to	to
+15	be	vb
+16	cheap	jj
+17	.	.
+
+1	but	uh
+2	it	prp
+3	has	vbz
+4	to	to
+5	be	vb
+6	within	in
+7	say	cd
+8	fifteen	cd
+9	miles	nns
+10	of	in
+11	san__francisco	nnp
+12	for	in
+13	tonight	nn
+14	.	.
+
+1	howbout	vbz
+2	a	dt
+3	good	jj
+4	brunch	nn
+5	somewhere	rb
+6	in	in
+7	berkeley	nn
+8	.	.
+
+1	uh	vbz
+2	anywhere	rb
+3	in	in
+4	the	dt
+5	bay	nn
+6	area	nn
+7	.	.
+
+1	uh	wrb
+2	relatively	vbz
+3	inexpensive	jj
+4	and	cc
+5	for	in
+6	a	dt
+7	dinner	nn
+8	on	in
+9	monday	nnp
+10	.	.
+
+1	less	wrb
+2	than	in
+3	five	cd
+4	dollars	nns
+5	.	.
+
+1	late	dt
+2	night	nn
+3	.	.
+
+1	close	vbz
+2	by	rb
+3	.	.
+
+1	not	vbz
+2	too	rb
+3	far	rb
+4	.	.
+
+1	close	wrb
+2	to	in
+3	san__francisco	nnp
+4	.	.
+
+1	within	uh
+2	five	cd
+3	miles	nns
+4	of	in
+5	berkeley	nn
+6	.	.
+
+1	money	wrb
+2	is	vbz
+3	no	dt
+4	object	nn
+5	.	.
+
+1	i	prp
+2	am	vbp
+3	in	in
+4	the	dt
+5	mood	nn
+6	for	in
+7	szechuan	dt
+8	chinese	jj
+9	food	nn
+10	.	.
+
+1	i	prp
+2	feel	md
+3	like	vb
+4	some	dt
+5	chinese	jj
+6	food	nn
+7	.	.
+
+1	to	md
+2	eat	vb
+3	today	nn
+4	i	prp
+5	'm	vbp
+6	hungry	jj
+7	.	.
+
+1	hello	uh
+2	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	szechuan	dt
+5	food	nn
+6	please	uh
+7	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	lunch	nn
+6	.	.
+
+1	well	wrb
+2	in	in
+3	that	dt
+4	case	nn
+5	how	wrb
+6	about	in
+7	some	dt
+8	greek	nn
+9	food	nn
+10	.	.
+
+1	i	md
+2	like	vb
+3	to	to
+4	walk	vb
+5	so	rb
+6	i	prp
+7	could	md
+8	go	vb
+9	pretty	rb
+10	far	rb
+11	.	.
+
+1	do	uh
+2	you	prp
+3	have	vb
+4	anything	nn
+5	that	wdt
+6	's	vbz
+7	pretty	rb
+8	close	jj
+9	to	in
+10	icksee	nn
+11	.	.
+
+1	well	uh
+2	i	prp
+3	do	vbp
+4	n't	rb
+5	care	vb
+6	if	in
+7	it	prp
+8	's	vbz
+9	szechuan	rb
+10	um	uh
+11	any	dt
+12	kind	nn
+13	of	in
+14	chinese	jj
+15	is	vbz
+16	fine	jj
+17	.	.
+
+1	i	prp
+2	did	vbd
+3	not	rb
+4	say	vb
+5	thai	jj
+6	i	prp
+7	said	vbd
+8	any	dt
+9	kind	nn
+10	of	in
+11	chinese	jj
+12	is	vbz
+13	fine	jj
+14	.	.
+
+1	how	wrb
+2	about	in
+3	something	nn
+4	that	wdt
+5	is	vbz
+6	pretty	rb
+7	cheap	jj
+8	.	.
+
+1	not	wrb
+2	thai	jj
+3	.	.
+
+1	i	prp
+2	feel	md
+3	like	vb
+4	vegetarian	jj
+5	pizza	nn
+6	.	.
+
+1	not	wrb
+2	thai	jj
+3	food	nn
+4	chinese	jj
+5	instead	rb
+6	.	.
+
+1	how	wrb
+2	about	in
+3	some	dt
+4	greek	nn
+5	gyros	nn
+6	.	.
+
+1	where	wrb
+2	is	vbz
+3	chez	nn
+4	-	hyph
+5	panisse	nn
+6	.	.
+
+1	in	dt
+2	greek	nn
+3	food	nn
+4	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	chinese	jj
+6	i	prp
+7	want	vbp
+8	greek	nn
+9	food	nn
+10	.	.
+
+1	well	prp
+2	thank	vbp
+3	you	prp
+4	very	rb
+5	much	jj
+6	i	prp
+7	'm	vbp
+8	gon	vbg
+9	na	to
+10	go	vb
+11	eat	vb
+12	now	rb
+13	.	.
+
+1	it	wrb
+2	has	vbz
+3	to	to
+4	be	vb
+5	vegetarian	jj
+6	too	rb
+7	.	.
+
+1	uh	prp
+2	can	md
+3	you	prp
+4	make	vb
+5	it	prp
+6	cheap	jj
+7	.	.
+
+1	i	prp
+2	said	vbd
+3	i	prp
+4	do	vbp
+5	n't	rb
+6	feel	rb
+7	like	vb
+8	pizza	nn
+9	.	.
+
+1	i	prp
+2	decided	md
+3	i	prp
+4	'm	vbp
+5	in	in
+6	a	dt
+7	hurry	nn
+8	can	md
+9	you	prp
+10	get	vb
+11	some	dt
+12	place	nn
+13	really	rb
+14	close	jj
+15	.	.
+
+1	you	md
+2	know	vb
+3	i	prp
+4	am	vbp
+5	so	rb
+6	hungry	jj
+7	i	prp
+8	do	vbp
+9	n't	rb
+10	care	vb
+11	what	wp
+12	kind	nn
+13	of	in
+14	food	nn
+15	it	prp
+16	is	vbz
+17	.	.
+
+1	how	wrb
+2	about	in
+3	some	dt
+4	greek	nn
+5	food	nn
+6	.	.
+
+1	oh	uh
+2	i	prp
+3	do	vbp
+4	n't	rb
+5	care	vb
+6	how	wrb
+7	far	rb
+8	it	prp
+9	is	vbz
+10	but	cc
+11	i	prp
+12	want	vbp
+13	some	dt
+14	greek	nn
+15	food	nn
+16	.	.
+
+1	any	dt
+2	distance	nn
+3	at	in
+4	all	dt
+5	.	.
+
+1	um	prp
+2	can	md
+3	you	prp
+4	tell	vb
+5	me	prp
+6	something	nn
+7	about	in
+8	mexican	jj
+9	restaurants	nns
+10	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	mexican	jj
+7	.	.
+
+1	uh	dt
+2	howbout	nn
+3	on	in
+4	a	dt
+5	sunday	nn
+6	.	.
+
+1	lunch	uh
+2	please	uh
+3	.	.
+
+1	i	prp
+2	said	vbd
+3	lunch	nn
+4	.	.
+
+1	uh	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	it	prp
+6	to	to
+7	be	vb
+8	under	in
+9	ten	cd
+10	dollars	nns
+11	.	.
+
+1	uh	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	it	prp
+6	to	to
+7	be	vb
+8	under	in
+9	ten	cd
+10	dollars	nns
+11	.	.
+
+1	uh	uh
+2	fifteen	cd
+3	minute	nn
+4	by	in
+5	walking	nn
+6	.	.
+
+1	howbout	dt
+2	dinner	nn
+3	.	.
+
+1	chinese	dt
+2	food	nn
+3	please	uh
+4	.	.
+
+1	sunday	uh
+2	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	it	prp
+5	to	to
+6	be	vb
+7	for	in
+8	dinner	nn
+9	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	spend	vb
+6	less	jjr
+7	than	in
+8	twenty	cd
+9	dollars	nns
+10	.	.
+
+1	within	uh
+2	twenty	cd
+3	minutes	nns
+4	walking	vbg
+5	.	.
+
+1	twenty	cd
+2	minutes	nns
+3	.	.
+
+1	can	uh
+2	you	prp
+3	show	vb
+4	me	prp
+5	the	dt
+6	menu	nn
+7	.	.
+
+1	i	prp
+2	said	vbd
+3	sunday	nn
+4	.	.
+
+1	what	prp
+2	do	vbp
+3	you	prp
+4	know	vb
+5	about	in
+6	won	dt
+7	thai	jj
+8	cuisine	nn
+9	.	.
+
+1	what	dt
+2	information	nn
+3	do	vbp
+4	you	prp
+5	have	vb
+6	on	in
+7	cha	nn
+8	-	hyph
+9	am	nn
+10	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	any	dt
+5	greek	nn
+6	restaurant	nn
+7	.	.
+
+1	i	prp
+2	said	vbd
+3	greek	nn
+4	restaurant	nn
+5	.	.
+
+1	greek	cd
+2	restaurants	nns
+3	on	in
+4	any	dt
+5	day	nn
+6	.	.
+
+1	three	cd
+2	miles	nns
+3	.	.
+
+1	any	dt
+2	meal	nn
+3	.	.
+
+1	it	wrb
+2	does	vbz
+3	n't	rb
+4	matter	vb
+5	.	.
+
+1	the	dt
+2	price	nn
+3	does	vbz
+4	n't	rb
+5	matter	vb
+6	.	.
+
+1	does	vbz
+2	n't	rb
+3	matter	vb
+4	.	.
+
+1	howbout	wrb
+2	within	in
+3	twenty	cd
+4	miles	nns
+5	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	about	in
+5	cambodian	jj
+6	restaurant	nn
+7	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	about	in
+5	cambodian	jj
+6	restaurant	nn
+7	.	.
+
+1	uh	dt
+2	howbout	nn
+3	cha	nn
+4	-	hyph
+5	am	nn
+6	restaurant	nn
+7	.	.
+
+1	can	uh
+2	you	prp
+3	show	vb
+4	me	prp
+5	more	rbr
+6	indian	jj
+7	restaurants	nns
+8	.	.
+
+1	i	prp
+2	want	vbp
+3	indian	jj
+4	restaurant	nn
+5	.	.
+
+1	howbout	wrb
+2	japanese	jj
+3	restaurant	nn
+4	.	.
+
+1	californian	dt
+2	food	nn
+3	.	.
+
+1	any	dt
+2	day	nn
+3	.	.
+
+1	uh	uh
+2	i	prp
+3	would	md
+4	like	vb
+5	to	to
+6	eat	vb
+7	lunch	nn
+8	.	.
+
+1	i	prp
+2	said	vbd
+3	ten	cd
+4	dollars	nns
+5	.	.
+
+1	i	prp
+2	feel	md
+3	like	vb
+4	an	dt
+5	italian	jj
+6	lunch	nn
+7	today	nn
+8	.	.
+
+1	five	cd
+2	bucks	nns
+3	will	md
+4	be	vb
+5	okay	uh
+6	.	.
+
+1	around	uh
+2	five	cd
+3	dollars	nns
+4	preferably	rb
+5	less	jjr
+6	.	.
+
+1	hopefully	vbz
+2	just	rb
+3	a	dt
+4	block	nn
+5	or	cc
+6	two	cd
+7	.	.
+
+1	let	uh
+2	's	prp
+3	say	vbp
+4	a	dt
+5	half	nn
+6	a	dt
+7	mile	nn
+8	or	cc
+9	less	jjr
+10	.	.
+
+1	i	prp
+2	want	vbp
+3	just	rb
+4	a	dt
+5	snack	jj
+6	today	nn
+7	.	.
+
+1	i	prp
+2	want	vbp
+3	a	dt
+4	snack	nn
+5	.	.
+
+1	i	prp
+2	feel	md
+3	like	vb
+4	a	dt
+5	burrito	nn
+6	today	nn
+7	.	.
+
+1	i	prp
+2	'm	vbp
+3	interested	jj
+4	in	in
+5	dinner	nn
+6	.	.
+
+1	i	prp
+2	wan	vbp
+3	na	to
+4	spend	vb
+5	five	cd
+6	dollars	nns
+7	or	cc
+8	less	jjr
+9	.	.
+
+1	two	cd
+2	blocks	nns
+3	away	rb
+4	or	cc
+5	less	jjr
+6	.	.
+
+1	do	uh
+2	you	prp
+3	have	vb
+4	the	dt
+5	menu	nn
+6	for	in
+7	taqueria	fw
+8	de	fw
+9	berkeley	fw
+10	.	.
+
+1	can	uh
+2	i	prp
+3	see	vb
+4	the	dt
+5	menu	nn
+6	for	in
+7	taqueria	fw
+8	de	fw
+9	berkeley	fw
+10	.	.
+
+1	are	vbz
+2	there	ex
+3	any	dt
+4	other	jj
+5	mexican	jj
+6	restaurants	nns
+7	.	.
+
+1	breakfast	dt
+2	today	nn
+3	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	any	dt
+5	pizza	nn
+6	places	nns
+7	.	.
+
+1	breakfast	wrb
+2	god	in
+3	dammit	nn
+4	.	.
+
+1	for	dt
+2	breakfast	nn
+3	.	.
+
+1	i	prp
+2	'll	md
+3	pay	vb
+4	two	cd
+5	dollars	nns
+6	per	in
+7	slice	nn
+8	.	.
+
+1	two	cd
+2	dollars	nns
+3	per	in
+4	slice	nn
+5	.	.
+
+1	has	vbp
+2	to	to
+3	be	vb
+4	real	jj
+5	close	jj
+6	.	.
+
+1	does	dt
+2	arinell	nn
+3	pizza	nn
+4	have	vb
+5	sicilian	rp
+6	.	.
+
+1	tell	uh
+2	me	prp
+3	about	in
+4	arinell	nn
+5	pizza	nn
+6	.	.
+
+1	howbout	vbz
+2	a	dt
+3	fancy	jj
+4	dinner	nn
+5	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	a	dt
+5	fancy	jj
+6	dinner	nn
+7	.	.
+
+1	american	dt
+2	food	nn
+3	would	md
+4	be	vb
+5	nice	jj
+6	.	.
+
+1	friday	uh
+2	or	cc
+3	saturday	nn
+4	night	nn
+5	.	.
+
+1	friday	uh
+2	or	cc
+3	saturday	nn
+4	evening	nn
+5	.	.
+
+1	i	md
+2	have	vb
+3	a	dt
+4	car	nn
+5	so	rb
+6	i	prp
+7	can	md
+8	travel	vb
+9	up	rp
+10	to	in
+11	ten	cd
+12	miles	nns
+13	.	.
+
+1	what	nnp
+2	's	pos
+3	soul	nn
+4	brother	nn
+5	's	pos
+6	kitchen	nn
+7	.	.
+
+1	that	wrb
+2	's	vbz
+3	too	rb
+4	expensive	jj
+5	.	.
+
+1	howbout	cd
+2	spenger's	nns
+3	.	.
+
+1	howbout	prp
+2	chinese	vbp
+3	instead	rb
+4	.	.
+
+1	tell	uh
+2	me	prp
+3	more	jjr
+4	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	hong	nn
+6	-	hyph
+7	kong	vbg
+8	east	nn
+9	ocean	nn
+10	.	.
+
+1	what	wrb
+2	good	jj
+3	breakfast	nn
+4	places	nns
+5	are	vbp
+6	there	rb
+7	.	.
+
+1	no	prp
+2	barbecue	vbp
+3	i	prp
+4	want	vbp
+5	indian	jj
+6	food	nn
+7	.	.
+
+1	i	prp
+2	want	vbp
+3	fast	jj
+4	food	nn
+5	for	in
+6	lunch	nn
+7	today	nn
+8	.	.
+
+1	indian	wrb
+2	fast	jj
+3	food	nn
+4	five	cd
+5	dollars	nns
+6	or	cc
+7	less	jjr
+8	.	.
+
+1	just	vbz
+2	a	dt
+3	few	jj
+4	bucks	nns
+5	.	.
+
+1	um	uh
+2	i	prp
+3	i	prp
+4	wan	vbp
+5	na	to
+6	go	vb
+7	for	in
+8	lunch	nn
+9	and	cc
+10	it	prp
+11	's	vbz
+12	monday	nnp
+13	and	cc
+14	the	dt
+15	cost	nn
+16	does	vbz
+17	n't	rb
+18	matter	vb
+19	.	.
+
+1	give	uh
+2	me	prp
+3	some	dt
+4	more	jjr
+5	information	nn
+6	about	in
+7	jupiter	nn
+8	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	arinell	nn
+6	pizza	nn
+7	.	.
+
+1	okay	md
+2	start	vb
+3	over	rp
+4	and	cc
+5	look	vb
+6	for	in
+7	thai	dt
+8	food	nn
+9	.	.
+
+1	look	wrb
+2	for	in
+3	thai	dt
+4	food	nn
+5	restaurants	nns
+6	.	.
+
+1	do	uh
+2	they	prp
+3	serve	vbp
+4	breakfast	nn
+5	.	.
+
+1	i	prp
+2	wan	vbp
+3	na	to
+4	go	vb
+5	for	in
+6	dinner	nn
+7	.	.
+
+1	uh	dt
+2	price	nn
+3	should	md
+4	be	vb
+5	about	in
+6	twelve	cd
+7	dollars	nns
+8	.	.
+
+1	uh	dt
+2	price	nn
+3	should	md
+4	be	vb
+5	about	in
+6	twelve	cd
+7	dollars	nns
+8	.	.
+
+1	uh	vb
+2	up	rp
+3	to	in
+4	five	cd
+5	miles	nns
+6	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	the	dt
+6	berkeley	nn
+7	thai	jj
+8	house	nn
+9	.	.
+
+1	no	uh
+2	i	prp
+3	wan	vbp
+4	na	to
+5	have	vb
+6	dinner	nn
+7	not	rb
+8	breakfast	nn
+9	.	.
+
+1	no	uh
+2	i	prp
+3	wan	vbp
+4	na	to
+5	have	vb
+6	dinner	nn
+7	not	rb
+8	breakfast	nn
+9	.	.
+
+1	no	uh
+2	i	prp
+3	wan	vbp
+4	na	to
+5	have	vb
+6	dinner	nn
+7	not	rb
+8	breakfast	nn
+9	.	.
+
+1	no	uh
+2	i	prp
+3	wan	vbp
+4	na	to
+5	have	vb
+6	dinner	nn
+7	not	rb
+8	breakfast	nn
+9	.	.
+
+1	no	uh
+2	i	prp
+3	wan	vbp
+4	na	to
+5	have	vb
+6	dinner	nn
+7	not	rb
+8	breakfast	nn
+9	.	.
+
+1	no	uh
+2	i	prp
+3	wan	vbp
+4	na	to
+5	have	vb
+6	dinner	nn
+7	not	rb
+8	breakfast	nn
+9	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	have	vb
+5	dinner	nn
+6	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	go	vb
+5	for	in
+6	dinner	nn
+7	.	.
+
+1	give	uh
+2	me	prp
+3	more	jjr
+4	information	nn
+5	about	in
+6	won	dt
+7	thai	jj
+8	cuisine	nn
+9	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	any	dt
+5	mcdonald	nn
+6	's	pos
+7	restaurant	nn
+8	.	.
+
+1	no	uh
+2	i	prp
+3	wan	vbp
+4	na	to
+5	eat	vb
+6	hamburger	nn
+7	.	.
+
+1	uh	prp
+2	should	md
+3	n't	rb
+4	cost	vb
+5	more	jjr
+6	than	in
+7	five	cd
+8	dollars	nns
+9	.	.
+
+1	not	prp
+2	more	rbr
+3	than	in
+4	five	cd
+5	dollar	nn
+6	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	wan	vbp
+5	na	to
+6	pay	vb
+7	more	jjr
+8	than	in
+9	five	cd
+10	bucks	nns
+11	.	.
+
+1	uh	wrb
+2	for	in
+3	lunch	nn
+4	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	wan	vbp
+5	na	to
+6	pay	vb
+7	more	jjr
+8	than	in
+9	five	cd
+10	bucks	nns
+11	.	.
+
+1	sunday	uh
+2	and	cc
+3	for	in
+4	dinner	nn
+5	.	.
+
+1	hey	uh
+2	what	wp
+3	's	vbz
+4	bongo	dt
+5	burger	nn
+6	.	.
+
+1	do	uh
+2	you	prp
+3	know	vb
+4	any	dt
+5	sandwich	nn
+6	restaurants	nns
+7	.	.
+
+1	tell	uh
+2	me	prp
+3	something	nn
+4	about	in
+5	la	jj
+6	tour	nn
+7	eiffel	nn
+8	.	.
+
+1	what	uh
+2	what	wp
+3	is	vbz
+4	la	jj
+5	tour	nn
+6	eiffel	nn
+7	.	.
+
+1	what	uh
+2	what	wp
+3	is	vbz
+4	la	jj
+5	tour	nn
+6	eiffel	nn
+7	.	.
+
+1	i	prp
+2	wan	vbp
+3	na	to
+4	eat	vb
+5	sushi	jj
+6	.	.
+
+1	tell	uh
+2	me	prp
+3	something	nn
+4	nearby	rb
+5	and	cc
+6	cheap	jj
+7	.	.
+
+1	i	prp
+2	wan	vbp
+3	na	to
+4	eat	vb
+5	on	in
+6	wednesday	nnp
+7	.	.
+
+1	for	dt
+2	lunch	nn
+3	and	cc
+4	let	vb
+5	's	prp
+6	say	vb
+7	two	cd
+8	blocks	nns
+9	away	rb
+10	from	in
+11	the	dt
+12	icsi	nn
+13	.	.
+
+1	okay	dt
+2	cost	nn
+3	does	vbz
+4	n't	rb
+5	matter	vb
+6	.	.
+
+1	what	wrb
+2	is	vbz
+3	sushi	jj
+4	-	hyph
+5	ko	nn
+6	.	.
+
+1	okay	uh
+2	i	prp
+3	wan	vbp
+4	na	to
+5	have	vb
+6	some	dt
+7	american	jj
+8	breakfast	nn
+9	on	in
+10	saturday	nn
+11	morning	nn
+12	.	.
+
+1	cost	wrb
+2	does	vbz
+3	n't	rb
+4	matter	vb
+5	and	cc
+6	distance	nn
+7	does	vbz
+8	n't	rb
+9	matter	vb
+10	either	rp
+11	.	.
+
+1	cost	wrb
+2	does	vbz
+3	n't	rb
+4	matter	vb
+5	.	.
+
+1	um	uh
+2	okay	uh
+3	let	vb
+4	's	prp
+5	say	vb
+6	seven	cd
+7	bucks	nns
+8	.	.
+
+1	where	wrb
+2	is	vbz
+3	mel	nnp
+4	's	pos
+5	diner	nn
+6	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	the	dt
+6	continental	jj
+7	garden	nn
+8	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	some	dt
+7	indian	jj
+8	food	nn
+9	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	at	in
+7	a	dt
+8	restaurant	nn
+9	close	jj
+10	to	in
+11	icksee	nn
+12	.	.
+
+1	i	prp
+2	need	vbp
+3	to	to
+4	eat	vb
+5	now	rb
+6	.	.
+
+1	somewhere	wrb
+2	cheap	jj
+3	would	md
+4	be	vb
+5	good	jj
+6	.	.
+
+1	i	prp
+2	want	vbp
+3	cheap	jj
+4	meal	nn
+5	.	.
+
+1	give	uh
+2	me	prp
+3	some	dt
+4	more	jjr
+5	information	nn
+6	on	in
+7	sujatha's	nns
+8	.	.
+
+1	how	wrb
+2	about	in
+3	some	dt
+4	italian	jj
+5	food	nn
+6	.	.
+
+1	i	prp
+2	want	vbp
+3	an	dt
+4	expensive	jj
+5	meal	nn
+6	.	.
+
+1	i	prp
+2	'm	vbp
+3	going	vbg
+4	out	rp
+5	for	in
+6	food	nn
+7	on	in
+8	saturday	nn
+9	lunch	nn
+10	time	nn
+11	.	.
+
+1	i	prp
+2	will	md
+3	be	vb
+4	looking	vbg
+5	for	in
+6	food	nn
+7	on	in
+8	saturday	nn
+9	.	.
+
+1	the	dt
+2	restaurant	nn
+3	can	md
+4	be	vb
+5	any	dt
+6	distance	nn
+7	from	in
+8	icksee	nn
+9	.	.
+
+1	it	wrb
+2	does	vbz
+3	n't	rb
+4	matter	vb
+5	if	in
+6	the	dt
+7	restaurant	nn
+8	is	vbz
+9	a	dt
+10	long	jj
+11	way	nn
+12	from	in
+13	icksee	nn
+14	.	.
+
+1	i	prp
+2	can	md
+3	go	vb
+4	up	rp
+5	to	in
+6	two	cd
+7	miles	nns
+8	from	in
+9	icksee	nn
+10	.	.
+
+1	a	wrb
+2	cheap	jj
+3	pizza	nn
+4	will	wdt
+5	do	vbp
+6	fine	jj
+7	.	.
+
+1	tell	uh
+2	me	prp
+3	about	in
+4	blondie	nnp
+5	's	pos
+6	.	.
+
+1	vegetarian	dt
+2	food	nn
+3	.	.
+
+1	what	wrb
+2	about	in
+3	some	dt
+4	vegetarian	jj
+5	food	nn
+6	.	.
+
+1	i	prp
+2	will	md
+3	be	vb
+4	eating	vbg
+5	tonight	nn
+6	.	.
+
+1	the	dt
+2	restaurant	nn
+3	must	md
+4	be	vb
+5	close	jj
+6	to	in
+7	icksee	nn
+8	.	.
+
+1	where	wrb
+2	is	vbz
+3	a	dt
+4	good	jj
+5	place	nn
+6	for	in
+7	chinese	jj
+8	food	nn
+9	.	.
+
+1	where	wrb
+2	is	vbz
+3	a	dt
+4	good	jj
+5	place	nn
+6	for	in
+7	chinese	jj
+8	food	nn
+9	.	.
+
+1	if	uh
+2	it	prp
+3	's	vbz
+4	chinese	jj
+5	for	in
+6	breakfast	nn
+7	it	prp
+8	can	md
+9	be	vb
+10	cheap	jj
+11	.	.
+
+1	if	uh
+2	it	prp
+3	's	vbz
+4	no	dt
+5	chinese	jj
+6	it	prp
+7	will	md
+8	have	vb
+9	to	to
+10	be	vb
+11	american	jj
+12	.	.
+
+1	tell	uh
+2	me	prp
+3	about	in
+4	lox	dt
+5	stock	nn
+6	and	cc
+7	bagel	nn
+8	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	know	vb
+5	about	in
+6	lox	dt
+7	stock	nn
+8	and	cc
+9	bagel	nn
+10	.	.
+
+1	tell	uh
+2	me	prp
+3	about	in
+4	cactus	nn
+5	.	.
+
+1	now	uh
+2	i	prp
+3	'm	vbp
+4	interested	jj
+5	in	in
+6	mexican	jj
+7	food	nn
+8	.	.
+
+1	now	uh
+2	i	prp
+3	'm	vbp
+4	interested	jj
+5	in	in
+6	mexican	jj
+7	food	nn
+8	.	.
+
+1	the	dt
+2	day	nn
+3	i	prp
+4	want	vbp
+5	to	to
+6	eat	vb
+7	is	vbz
+8	wednesday	nnp
+9	.	.
+
+1	not	dt
+2	breakfast	nn
+3	lunch	nn
+4	time	nn
+5	.	.
+
+1	no	uh
+2	it	prp
+3	's	vbz
+4	mexican	jj
+5	food	nn
+6	burritos	nns
+7	for	in
+8	lunch	nn
+9	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	at	in
+6	one	cd
+7	p__m	nn
+8	.	.
+
+1	okay	uh
+2	what	wp
+3	about	in
+4	thai	dt
+5	food	nn
+6	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	go	vb
+5	out	rp
+6	for	in
+7	dinner	nn
+8	.	.
+
+1	mid	vbz
+2	priced	vbn
+3	thai	dt
+4	food	nn
+5	is	vbz
+6	what	wp
+7	i	prp
+8	'm	vbp
+9	looking	vbg
+10	for	in
+11	.	.
+
+1	mid	vbz
+2	priced	vbn
+3	food	nn
+4	.	.
+
+1	mid	vbz
+2	priced	vbn
+3	food	nn
+4	.	.
+
+1	not	wrb
+2	expensive	jj
+3	and	cc
+4	not	rb
+5	cheap	jj
+6	.	.
+
+1	no	prp
+2	japanese	md
+3	like	vb
+4	sushi	jj
+5	.	.
+
+1	japanese	wrb
+2	sushi	jj
+3	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	some	dt
+5	indian	jj
+6	food	nn
+7	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	today	nn
+7	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	have	vb
+6	dinner	nn
+7	.	.
+
+1	no	prp
+2	more	rbr
+3	than	in
+4	fifteen	cd
+5	dollars	nns
+6	.	.
+
+1	no	prp
+2	more	rbr
+3	than	in
+4	five	cd
+5	miles	nns
+6	.	.
+
+1	does	dt
+2	pasand	nn
+3	restaurant	nn
+4	have	vb
+5	any	dt
+6	live	jj
+7	music	nn
+8	there	rb
+9	.	.
+
+1	sorry	uh
+2	i	prp
+3	meant	vbd
+4	if	in
+5	pasand	nn
+6	has	vbz
+7	live	dt
+8	music	nn
+9	.	.
+
+1	will	uh
+2	i	prp
+3	get	vb
+4	food	nn
+5	poisoning	nn
+6	if	in
+7	i	prp
+8	eat	vb
+9	at	in
+10	pasand	nn
+11	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	some	dt
+5	italian	jj
+6	food	nn
+7	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	on	in
+7	wednesday	nnp
+8	.	.
+
+1	i	prp
+2	'm	vbp
+3	sorry	uh
+4	i	prp
+5	said	vbd
+6	that	dt
+7	i	prp
+8	would	md
+9	like	vb
+10	to	to
+11	eat	vb
+12	on	in
+13	wednesday	nnp
+14	.	.
+
+1	i	prp
+2	'm	vbp
+3	sorry	uh
+4	i	prp
+5	said	vbd
+6	that	dt
+7	i	prp
+8	would	md
+9	like	vb
+10	to	to
+11	eat	vb
+12	on	in
+13	wednesday	nnp
+14	.	.
+
+1	i	prp
+2	want	vbp
+3	lunch	nn
+4	.	.
+
+1	no	prp
+2	more	rbr
+3	than	in
+4	six	cd
+5	dollars	nns
+6	.	.
+
+1	how	wrb
+2	much	jj
+3	seating	nn
+4	does	vbz
+5	spats	rb
+6	have	vb
+7	.	.
+
+1	do	uh
+2	i	prp
+3	need	vbp
+4	to	to
+5	make	vb
+6	a	dt
+7	reservation	nn
+8	.	.
+
+1	how	wrb
+2	about	in
+3	lasagna	nn
+4	.	.
+
+1	i	prp
+2	said	vbd
+3	that	dt
+4	i	prp
+5	would	md
+6	like	vb
+7	lasagna	rp
+8	.	.
+
+1	what	wrb
+2	is	vbz
+3	the	dt
+4	cross	nn
+5	street	nn
+6	for	in
+7	spats	nns
+8	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	ethiopian	jj
+5	food	nn
+6	.	.
+
+1	on	dt
+2	tuesday	nn
+3	.	.
+
+1	ten	cd
+2	dollars	nns
+3	.	.
+
+1	no	prp
+2	more	rbr
+3	than	in
+4	three	cd
+5	miles	nns
+6	.	.
+
+1	so	vbz
+2	the	dt
+3	minimum	jj
+4	cost	nn
+5	for	in
+6	blue	jj
+7	nile	nn
+8	is	vbz
+9	twenty	cd
+10	dollars	nns
+11	.	.
+
+1	do	uh
+2	they	prp
+3	server	vbp
+4	liquor	vbg
+5	at	in
+6	blue	jj
+7	nile	nn
+8	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	chinese	jj
+5	food	nn
+6	.	.
+
+1	today	uh
+2	please	uh
+3	.	.
+
+1	lunch	uh
+2	.	.
+
+1	eight	cd
+2	dollars	nns
+3	.	.
+
+1	how	wrb
+2	about	in
+3	seven	cd
+4	dollars	nns
+5	.	.
+
+1	four	cd
+2	miles	nns
+3	please	uh
+4	.	.
+
+1	four	cd
+2	miles	nns
+3	please	uh
+4	.	.
+
+1	i	prp
+2	said	vbd
+3	i	prp
+4	'd	md
+5	like	vb
+6	to	to
+7	go	vb
+8	six	cd
+9	miles	nns
+10	.	.
+
+1	i	prp
+2	asked	rbr
+3	for	in
+4	chinese	jj
+5	food	nn
+6	.	.
+
+1	does	wrb
+2	lantern	vbz
+3	allow	dt
+4	smoking	nn
+5	.	.
+
+1	can	uh
+2	i	prp
+3	smoke	rbr
+4	at	in
+5	lantern	nn
+6	.	.
+
+1	i	prp
+2	want	vbp
+3	american	jj
+4	food	nn
+5	.	.
+
+1	saturday	uh
+2	.	.
+
+1	lunch	uh
+2	.	.
+
+1	twenty	cd
+2	dollars	nns
+3	.	.
+
+1	what	dt
+2	kind	nn
+3	of	in
+4	food	nn
+5	does	vbz
+6	grace	dt
+7	cafe	nn
+8	have	vb
+9	.	.
+
+1	do	uh
+2	they	prp
+3	have	vbp
+4	hamburgers	nns
+5	.	.
+
+1	hamburgers	uh
+2	.	.
+
+1	french	cd
+2	fries	nns
+3	.	.
+
+1	how	wrb
+2	much	jj
+3	is	vbz
+4	metropole	nn
+5	.	.
+
+1	how	wrb
+2	much	jj
+3	is	vbz
+4	metropole	nn
+5	.	.
+
+1	i	prp
+2	want	vbp
+3	japanese	jj
+4	food	nn
+5	.	.
+
+1	i	prp
+2	want	vbp
+3	japanese	jj
+4	food	nn
+5	.	.
+
+1	how	wrb
+2	much	jj
+3	is	vbz
+4	the	dt
+5	food	nn
+6	at	in
+7	yoshi's	nn
+8	.	.
+
+1	can	uh
+2	i	prp
+3	take	vb
+4	a	dt
+5	bus	nn
+6	to	in
+7	yoshi's	nn
+8	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	some	dt
+5	vietnamese	jj
+6	food	nn
+7	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	go	vb
+5	no	dt
+6	more	jjr
+7	than	in
+8	ten	cd
+9	miles	nns
+10	.	.
+
+1	no	uh
+2	i	prp
+3	said	vbd
+4	i	prp
+5	want	vbp
+6	to	to
+7	go	vb
+8	no	dt
+9	more	jjr
+10	than	in
+11	ten	cd
+12	miles	nns
+13	.	.
+
+1	breakfast	uh
+2	.	.
+
+1	six	cd
+2	dollars	nns
+3	.	.
+
+1	how	wrb
+2	about	in
+3	nine	cd
+4	dollars	nns
+5	.	.
+
+1	what	wrb
+2	about	in
+3	lunch	nn
+4	.	.
+
+1	le	fw
+2	cheval	fw
+3	.	.
+
+1	show	uh
+2	me	prp
+3	the	dt
+4	price	nn
+5	for	in
+6	le	fw
+7	cheval	fw
+8	.	.
+
+1	give	uh
+2	me	prp
+3	additional	jj
+4	information	nn
+5	on	in
+6	le	fw
+7	cheval	fw
+8	.	.
+
+1	yeah	uh
+2	i	prp
+3	'd	md
+4	like	vb
+5	to	to
+6	eat	vb
+7	german	jj
+8	food	nn
+9	and	cc
+10	i	prp
+11	do	vbp
+12	n't	rb
+13	wan	vbp
+14	na	to
+15	spend	vb
+16	more	jjr
+17	money	nn
+18	than	in
+19	twenty	cd
+20	dollars	nns
+21	.	.
+
+1	uh	uh
+2	i	prp
+3	said	vbd
+4	i	prp
+5	do	vbp
+6	n't	rb
+7	wan	vbp
+8	na	to
+9	spend	vb
+10	more	jjr
+11	than	in
+12	twenty	cd
+13	dollars	nns
+14	.	.
+
+1	i	prp
+2	said	vbd
+3	twenty	cd
+4	dollars	nns
+5	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	have	vb
+5	dinner	nn
+6	tomorrow	nn
+7	and	cc
+8	i	prp
+9	do	vbp
+10	n't	rb
+11	want	vbp
+12	to	to
+13	spend	vb
+14	more	jjr
+15	than	in
+16	thirty	cd
+17	dollars	nns
+18	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	dinner	nn
+6	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	have	vb
+5	dinner	nn
+6	in	in
+7	a	dt
+8	german	jj
+9	restaurant	nn
+10	tomorrow	nn
+11	.	.
+
+1	i	prp
+2	said	vbd
+3	german	jj
+4	tomorrow	nn
+5	.	.
+
+1	i	prp
+2	wan	vbp
+3	na	to
+4	spend	vb
+5	thirty	cd
+6	dollars	nns
+7	in	in
+8	a	dt
+9	german	jj
+10	restaurant	nn
+11	.	.
+
+1	i	prp
+2	'm	vbp
+3	willing	jj
+4	to	to
+5	travel	vb
+6	twenty	cd
+7	minutes	nns
+8	from	in
+9	icsi	nn
+10	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	cheap	jj
+7	german	nn
+8	food	nn
+9	tomorrow	nn
+10	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	have	vb
+6	lunch	nn
+7	.	.
+
+1	i	prp
+2	'm	vbp
+3	willing	jj
+4	to	to
+5	travel	vb
+6	one	cd
+7	hour	nn
+8	from	in
+9	icsi	nn
+10	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	have	vb
+5	lunch	nn
+6	in	in
+7	a	dt
+8	french	jj
+9	restaurant	nn
+10	tomorrow	nn
+11	for	in
+12	sixty	cd
+13	dollars	nns
+14	.	.
+
+1	i	prp
+2	wan	vbp
+3	na	to
+4	travel	vb
+5	at	in
+6	least	jjs
+7	one	cd
+8	hour	nn
+9	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	travel	vb
+7	far	rb
+8	away	rb
+9	.	.
+
+1	i	prp
+2	wan	vbp
+3	na	to
+4	eat	vb
+5	polish	nn
+6	food	nn
+7	at	in
+8	friday	nn
+9	.	.
+
+1	russian	dt
+2	food	nn
+3	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	spend	vb
+5	very	rb
+6	much	jj
+7	money	nn
+8	.	.
+
+1	sixty	uh
+2	five	cd
+3	dollars	nns
+4	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	pizza	nn
+6	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	dinner	nn
+7	yesterday	nn
+8	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	on	in
+7	saturday	nn
+8	for	in
+9	about	in
+10	seventy	cd
+11	five	cd
+12	dollars	nns
+13	.	.
+
+1	forty	cd
+2	dollars	nns
+3	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	care	vb
+5	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	nino's	nn
+6	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	arinell	nn
+6	pizza	nn
+7	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	nino's	nn
+6	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	on	in
+7	sunday	nn
+8	night	nn
+9	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	spend	vb
+6	about	in
+7	ten	cd
+8	dollars	nns
+9	.	.
+
+1	about	uh
+2	twenty	cd
+3	minutes	nns
+4	on	in
+5	foot	nn
+6	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	travel	vb
+6	twenty	cd
+7	minutes	nns
+8	on	in
+9	foot	nn
+10	.	.
+
+1	about	uh
+2	two	cd
+3	or	cc
+4	three	cd
+5	miles	nns
+6	.	.
+
+1	about	uh
+2	two	cd
+3	or	cc
+4	three	cd
+5	miles	nns
+6	only	rb
+7	.	.
+
+1	where	wrb
+2	is	vbz
+3	sujatha's	nns
+4	.	.
+
+1	no	uh
+2	i	prp
+3	want	vbp
+4	to	to
+5	know	vb
+6	about	in
+7	indian	jj
+8	restaurants	nns
+9	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	go	vb
+5	to	in
+6	an	dt
+7	indian	jj
+8	restaurant	nn
+9	.	.
+
+1	indian	uh
+2	.	.
+
+1	indian	dt
+2	restaurant	nn
+3	.	.
+
+1	please	md
+2	tell	vb
+3	me	prp
+4	about	in
+5	indian	jj
+6	restaurants	nns
+7	.	.
+
+1	which	cd
+2	restaurants	nns
+3	are	vbp
+4	open	jj
+5	late	nn
+6	.	.
+
+1	where	wrb
+2	is	vbz
+3	the	dt
+4	closest	jjs
+5	greek	nn
+6	restaurant	nn
+7	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	today	nn
+7	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	lunch	nn
+7	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	a	dt
+7	gyro	nn
+8	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	a	dt
+7	cheap	jj
+8	lunch	nn
+9	close	rb
+10	by	rb
+11	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	a	dt
+7	cheap	jj
+8	lunch	nn
+9	close	rb
+10	by	rb
+11	.	.
+
+1	not	prp
+2	more	rbr
+3	than	in
+4	one	cd
+5	mile	nn
+6	.	.
+
+1	not	prp
+2	more	rbr
+3	than	in
+4	one	cd
+5	mile	nn
+6	.	.
+
+1	where	prp
+2	can	md
+3	i	prp
+4	find	vb
+5	steak	nn
+6	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	a	dt
+7	cheap	jj
+8	dinner	nn
+9	today	nn
+10	.	.
+
+1	a	wrb
+2	cheap	jj
+3	dinner	nn
+4	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	a	dt
+7	cheap	jj
+8	dinner	nn
+9	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	dinner	nn
+5	.	.
+
+1	not	prp
+2	more	rbr
+3	than	in
+4	three	cd
+5	miles	nns
+6	.	.
+
+1	i	prp
+2	'm	vbp
+3	looking	vbg
+4	for	in
+5	a	dt
+6	thai	jj
+7	restaurant	nn
+8	that	wdt
+9	is	vbz
+10	not	rb
+11	too	rb
+12	expensive	jj
+13	and	cc
+14	is	vbz
+15	on	in
+16	south	nn
+17	side	nn
+18	.	.
+
+1	um	wrb
+2	for	in
+3	dinner	nn
+4	on	in
+5	the	dt
+6	weekends	nns
+7	that	wdt
+8	does	vbz
+9	n't	rb
+10	require	cd
+11	reservations	nns
+12	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	some	dt
+5	information	nn
+6	on	in
+7	cha	nn
+8	-	hyph
+9	am	nn
+10	thai	jj
+11	restaurant	nn
+12	.	.
+
+1	i	prp
+2	'd	md
+3	like	vb
+4	some	dt
+5	information	nn
+6	on	in
+7	cha	nn
+8	-	hyph
+9	am	nn
+10	thai	jj
+11	restaurant	nn
+12	.	.
+
+1	i	prp
+2	'm	vbp
+3	looking	vbg
+4	for	in
+5	a	dt
+6	restaurant	nn
+7	for	in
+8	my	prp$
+9	parents	nns
+10	when	wrb
+11	they	prp
+12	come	vb
+13	into	in
+14	town	nn
+15	um	uh
+16	italian	jj
+17	food	nn
+18	um	uh
+19	dressy	cd
+20	casual	nns
+21	.	.
+
+1	would	md
+2	be	vb
+3	for	in
+4	dinner	nn
+5	on	in
+6	a	dt
+7	friday	nn
+8	or	cc
+9	saturday	nn
+10	evening	nn
+11	.	.
+
+1	um	uh
+2	my	prp$
+3	parents	nns
+4	would	md
+5	be	vb
+6	willing	jj
+7	to	to
+8	spend	vb
+9	fifteen	cd
+10	to	to
+11	twenty	cd
+12	five	cd
+13	dollars	nns
+14	on	in
+15	entrees	nns
+16	um	uh
+17	.	.
+
+1	tell	uh
+2	me	prp
+3	more	jjr
+4	information	nn
+5	on	in
+6	ristorante	nn
+7	venezia	nn
+8	.	.
+
+1	start	vb
+2	over	rp
+3	show	vb
+4	me	prp
+5	the	dt
+6	list	nn
+7	.	.
+
+1	tell	uh
+2	me	prp
+3	about	in
+4	the	dt
+5	musical	jj
+6	offering	nn
+7	cafe	nn
+8	.	.
+
+1	tell	uh
+2	me	prp
+3	about	in
+4	cafe	nn
+5	milano	nn
+6	.	.
+
+1	tell	uh
+2	me	prp
+3	about	in
+4	cafe	nn
+5	milano	nn
+6	.	.
+
+1	i	prp
+2	'm	vbp
+3	looking	vbg
+4	for	in
+5	a	dt
+6	greek	nn
+7	restaurant	nn
+8	um	uh
+9	casual	wp
+10	for	in
+11	the	dt
+12	weekends	jj
+13	evening	nn
+14	um	uh
+15	that	wdt
+16	's	vbz
+17	between	in
+18	the	dt
+19	.	.
+
+1	i	prp
+2	do	vbp
+3	n't	rb
+4	want	vbp
+5	to	to
+6	travel	vb
+7	any	dt
+8	further	nn
+9	than	in
+10	ten	cd
+11	minutes	nns
+12	from	in
+13	icsi	nn
+14	.	.
+
+1	tell	uh
+2	me	prp
+3	more	jjr
+4	information	nn
+5	about	in
+6	vasiliki	nnp
+7	.	.
+
+1	do	uh
+2	you	prp
+3	need	vbp
+4	reservations	nns
+5	for	in
+6	this	dt
+7	restaurant	nn
+8	.	.
+
+1	i	prp
+2	'm	vbp
+3	looking	vbg
+4	for	in
+5	a	dt
+6	fun	nn
+7	um	uh
+8	mostly	wp
+9	college	vbz
+10	crowd	dt
+11	mexican	jj
+12	food	nn
+13	restaurant	nn
+14	that	wdt
+15	's	vbz
+16	cheap	jj
+17	.	.
+
+1	it	prp
+2	would	md
+3	be	vb
+4	for	in
+5	the	dt
+6	weekends	nns
+7	um	uh
+8	i	prp
+9	would	md
+10	prefer	vb
+11	it	prp
+12	to	to
+13	be	vb
+14	no	dt
+15	more	jjr
+16	that	in
+17	ten	cd
+18	minutes	nns
+19	away	rb
+20	from	in
+21	icsi	nn
+22	.	.
+
+1	tell	uh
+2	me	prp
+3	more	rbr
+4	about	in
+5	manuel's	nns
+6	.	.
+
+1	i	prp
+2	'm	vbp
+3	looking	vbg
+4	for	in
+5	oh	uh
+6	you	prp
+7	do	vbp
+8	n't	rb
+9	have	vb
+10	anything	nn
+11	about	in
+12	locations	to
+13	like	vb
+14	hearst	dt
+15	avenue	nn
+16	finished	nn
+17	.	.
+
+1	hello	uh
+2	i	prp
+3	'm	vbp
+4	jeff	jj
+5	and	cc
+6	i	prp
+7	wan	vbp
+8	na	to
+9	go	vb
+10	for	in
+11	dinner	nn
+12	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	eat	vb
+6	some	dt
+7	mexican	jj
+8	food	nn
+9	.	.
+
+1	i	prp
+2	'm	vbp
+3	very	rb
+4	cheap	jj
+5	i	prp
+6	do	vbp
+7	n't	rb
+8	want	vbp
+9	to	to
+10	spend	vb
+11	very	rb
+12	much	jj
+13	money	nn
+14	maybe	rb
+15	five	cd
+16	dollars	nns
+17	.	.
+
+1	i	wrb
+2	own	vbz
+3	a	dt
+4	bike	nn
+5	and	cc
+6	i	prp
+7	'm	vbp
+8	willing	jj
+9	to	to
+10	bike	vb
+11	for	in
+12	about	in
+13	ten	cd
+14	minutes	nns
+15	.	.
+
+1	i	prp
+2	want	vbp
+3	mexican	jj
+4	food	nn
+5	for	in
+6	lunch	nn
+7	.	.
+
+1	about	uh
+2	five	cd
+3	dollars	nns
+4	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	bike	vb
+5	for	in
+6	five	cd
+7	minutes	nns
+8	.	.
+
+1	i	prp
+2	'm	vbp
+3	hungry	jj
+4	is	vbz
+5	there	ex
+6	a	dt
+7	good	jj
+8	place	nn
+9	to	to
+10	eat	vb
+11	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	on	in
+6	friday	nn
+7	.	.
+
+1	i	prp
+2	want	vbp
+3	to	to
+4	eat	vb
+5	on	in
+6	friday	nn
+7	.	.
+
+1	breakfast	uh
+2	but	cc
+3	i	prp
+4	do	vbp
+5	n't	rb
+6	want	vbp
+7	hungarian	jj
+8	food	nn
+9	i	prp
+10	want	vbp
+11	eggs	nns
+12	.	.
+
+1	five	cd
+2	dollars	nns
+3	.	.
+
+1	five	cd
+2	minutes	nns
+3	walk	nn
+4	.	.
+
+1	i	prp
+2	would	md
+3	like	vb
+4	to	to
+5	walk	vb
+6	for	in
+7	five	cd
+8	minutes	nns
+9	.	.
+
+1	which	prp
+2	ones	md
+3	have	vb
+4	eggs	rp
+5	.	.
