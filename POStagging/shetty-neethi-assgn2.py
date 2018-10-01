@@ -71,7 +71,6 @@ from random import shuffle
 import numpy
 #print("#######------VITERBI------##########")
 
-traindata_percent = 80 #percetage of data to be considered for training
 
 data_raw = open('berp-POS-training.txt','r')
 data_raw = data_raw.readlines()
@@ -90,7 +89,7 @@ for i in training_data:
 	
 training_data_sentences.append(sentence)
 training_data = training_data_sentences
-#print(len(training_data))
+print(len(training_data))
 data_raw = open('assgn2-test-set.txt','r')
 data_raw = data_raw.readlines()
 
@@ -136,19 +135,18 @@ for sentence in training_data:
 for i in range(len(unique_tagsWithStart)):
 	tagcount = sum(prevTagVsTagMatrix[i])
 	for j in range(len(unique_tagsWithoutStart)):
-		prevTagVsTagMatrix[i][j] = (prevTagVsTagMatrix[i][j] + (1/2)) / (tagcount + (len(unique_words)/2))
+		prevTagVsTagMatrix[i][j] = (prevTagVsTagMatrix[i][j] + (1)) / (tagcount + (len(unique_words)))
 
 for i in range(len(unique_tagsWithoutStart)):
 	tagcount = sum(tagVsWordMatrix[i])
 	for j in range(len(unique_words)):
-		tagVsWordMatrix[i][j] = (tagVsWordMatrix[i][j] + (1/2)) / (tagcount + (len(unique_words)/2))
+		tagVsWordMatrix[i][j] = (tagVsWordMatrix[i][j] + (1)) / (tagcount + (len(unique_words)))
 
 #####################################################################
 
 #######------VITERBI ALGO------##########")
 
 output = ""
-
 for sentence in test_data:
 	
 	viterbi_matrix = numpy.zeros((len(unique_tagsWithoutStart),len(sentence)))
@@ -159,7 +157,10 @@ for sentence in test_data:
 
 	#INITIALIZATION
 	for state in unique_tagsWithoutStart:
-		viterbi_matrix[unique_tagsWithoutStart.index(state)][0] = prevTagVsTagMatrix[0][unique_tagsWithoutStart.index(state)] * tagVsWordMatrix[unique_tagsWithoutStart.index(state)][0]
+		try:
+			viterbi_matrix[unique_tagsWithoutStart.index(state)][0] = prevTagVsTagMatrix[0][unique_tagsWithoutStart.index(state)] * tagVsWordMatrix[unique_tagsWithoutStart.index(state)][unique_words.index(wordList[0])]
+		except:
+			viterbi_matrix[unique_tagsWithoutStart.index(state)][0] = prevTagVsTagMatrix[0][unique_tagsWithoutStart.index(state)] * tagVsWordMatrix[unique_tagsWithoutStart.index(state)][unique_words.index("<UNK>")]
 		backPointers[unique_tagsWithoutStart.index(state)][0] = 0
 	
 	#RECURSION
@@ -182,15 +183,14 @@ for sentence in test_data:
 	#TERMINATION
 	bestPathProb = max(viterbi_matrix[:,len(sentence)-1])
 	bestPathPointer = int(numpy.argmax(viterbi_matrix[:,len(sentence)-1]))
-
+	
 	res = [unique_tagsWithoutStart[bestPathPointer]]
 	for column in reversed(range(1,len(sentence))):
 		bestPathPointer = int(backPointers[bestPathPointer][column])
 		res = [unique_tagsWithoutStart[bestPathPointer]] + res
 	s = ""
 	for i in range(len(sentence)):
-		s += sentence[i][0]+"\t"+sentence[i][1]+"\t"+res[i]+"\n"
-		
+		s += sentence[i][0]+"\t"+sentence[i][1]+"\t"+res[i].upper()+"\n"
 	output += (s+"\n")
 
 with open("shetty-neethi-assgn2-test-output.txt","w") as f:
